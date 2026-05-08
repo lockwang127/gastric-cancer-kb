@@ -40,17 +40,11 @@ def build_knowledge_base():
             domains.add(triplet.get('domain', 'unknown'))
 
     # 构建kb.json
-    kb_data = {
-        "version": "1.0.0",
-        "generated_at": datetime.now().isoformat(),
-        "total_triplets": len(all_triplets),
-        "domains": sorted(list(domains)),
-        "triplets": all_triplets
-    }
+    # Write triples array directly
 
     # 写入kb.json
     with open(output_path, 'w', encoding='utf-8') as f:
-        json.dump(kb_data, f, ensure_ascii=False, indent=2)
+        json.dump(all_triplets, f, ensure_ascii=False, indent=2)
 
     # 构建kb_meta.json
     meta_data = {

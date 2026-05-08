@@ -1,0 +1,18 @@
+{
+  "version": "1.0.0",
+  "generated_at": "2026-05-08T11:07:16.157407",
+  "total_triplets": 65,
+  "domains": [
+    "CSCO指南",
+    "分子分型",
+    "治疗",
+    "流行病学"
+  ],
+  "files": {
+    "biomarkers.json": 16,
+    "csco_2024.json": 17,
+    "epidemiology.json": 14,
+    "treatment.json": 18
+  },
+  "description": "胃癌知识库 - 基于CSCO指南、流行病学数据和临床研究"
+}

@@ -1,0 +1,157 @@
+[
+  {
+    "head": "早期胃癌",
+    "relation": "内镜下切除适应证",
+    "tail": "黏膜内癌，无溃疡或溃疡瘢痕，≤2cm分化型",
+    "source": "CSCO 2024指南",
+    "evidence": "绝对适应证：cT1a分化型，无溃疡，≤2cm",
+    "domain": "CSCO指南",
+    "confidence": 0.98
+  },
+  {
+    "head": "早期胃癌",
+    "relation": "内镜下切除方式",
+    "tail": "内镜黏膜下切除术(EMR)和内镜黏膜下剥离术(ESD)",
+    "source": "CSCO 2024指南",
+    "evidence": "ESD为首选，可整块切除",
+    "domain": "CSCO指南",
+    "confidence": 0.98
+  },
+  {
+    "head": "早期胃癌",
+    "relation": "非适应证处理",
+    "tail": "扩大适应证需综合评估后决定",
+    "source": "CSCO 2024指南",
+    "evidence": "需多学科讨论(MDT)",
+    "domain": "CSCO指南",
+    "confidence": 0.95
+  },
+  {
+    "head": "进展期胃癌",
+    "relation": "标准手术方式",
+    "tail": "D2根治术",
+    "source": "CSCO 2024指南",
+    "evidence": "D2淋巴结清扫是标准",
+    "domain": "CSCO指南",
+    "confidence": 0.98
+  },
+  {
+    "head": "进展期胃癌",
+    "relation": "辅助化疗适应证",
+    "tail": "pT2-4N0-3M0",
+    "source": "CSCO 2024指南",
+    "evidence": "术后病理证实的进展期",
+    "domain": "CSCO指南",
+    "confidence": 0.95
+  },
+  {
+    "head": "进展期胃癌",
+    "relation": "推荐辅助化疗方案",
+    "tail": "SOX或XELOX",
+    "source": "CSCO 2024指南",
+    "evidence": "术后辅助化疗标准方案",
+    "domain": "CSCO指南",
+    "confidence": 0.95
+  },
+  {
+    "head": "进展期胃癌",
+    "relation": "新辅助化疗方案",
+    "tail": "SOX或DOS",
+    "source": "CSCO 2024指南",
+    "evidence": "围手术期化疗证据充分",
+    "domain": "CSCO指南",
+    "confidence": 0.92
+  },
+  {
+    "head": "晚期胃癌一线",
+    "relation": "HER2阴性标准方案",
+    "tail": "SOX或XELOX",
+    "source": "CSCO 2024指南",
+    "evidence": "氟尿嘧啶+铂类为基础",
+    "domain": "CSCO指南",
+    "confidence": 0.95
+  },
+  {
+    "head": "晚期胃癌一线",
+    "relation": "HER2阳性靶向治疗",
+    "tail": "曲妥珠单抗+化疗",
+    "source": "ToGA研究/CSCO 2024指南",
+    "evidence": "抗HER2靶向联合化疗",
+    "domain": "CSCO指南",
+    "confidence": 0.95,
+    "pmid": "20876419"
+  },
+  {
+    "head": "晚期胃癌一线",
+    "relation": "PD-1抑制剂适应证",
+    "tail": "MSI-H或PD-L1 CPS≥5",
+    "source": "CSCO 2024指南",
+    "evidence": "免疫联合化疗证据充分",
+    "domain": "CSCO指南",
+    "confidence": 0.95
+  },
+  {
+    "head": "晚期胃癌二线",
+    "relation": "推荐化疗方案",
+    "tail": "紫杉醇或多西他赛或伊立替康",
+    "source": "CSCO 2024指南",
+    "evidence": "单药或联合用药",
+    "domain": "CSCO指南",
+    "confidence": 0.92
+  },
+  {
+    "head": "晚期胃癌二线",
+    "relation": "抗血管生成治疗",
+    "tail": "雷莫芦单抗",
+    "source": "RAINBOW研究/CSCO 2024指南",
+    "evidence": "单药或联合紫杉醇",
+    "domain": "CSCO指南",
+    "confidence": 0.92,
+    "pmid": "24637969"
+  },
+  {
+    "head": "晚期胃癌三线",
+    "relation": "靶向治疗选择",
+    "tail": "阿帕替尼(抗血管生成)",
+    "source": "CSCO 2024指南",
+    "evidence": "血管内皮生长因子受体2(VEGFR2)抑制剂",
+    "domain": "CSCO指南",
+    "confidence": 0.90
+  },
+  {
+    "head": "晚期胃癌三线",
+    "relation": "免疫治疗",
+    "tail": "PD-1抑制剂(纳武利尤单抗/帕博利珠单抗)",
+    "source": "CSCO 2024指南",
+    "evidence": "三线及以上选择",
+    "domain": "CSCO指南",
+    "confidence": 0.88
+  },
+  {
+    "head": "胃癌转化治疗",
+    "relation": "适用人群",
+    "tail": "初始不可切除但可能转化为可切除的胃癌",
+    "source": "CSCO 2024指南",
+    "evidence": "MDT评估后选择",
+    "domain": "CSCO指南",
+    "confidence": 0.90
+  },
+  {
+    "head": "胃癌MDT",
+    "relation": "适应证",
+    "tail": "所有胃癌患者均推荐MDT讨论",
+    "source": "CSCO 2024指南",
+    "evidence": "制定个体化治疗决策",
+    "domain": "CSCO指南",
+    "confidence": 0.95
+  },
+  {
+    "head": "胃癌",
+    "relation": "术后辅助放疗适应证",
+    "tail": "D2术后有淋巴结阳性或T4或切缘阳性",
+    "source": "CSCO 2024指南",
+    "evidence": "术后辅助放化疗适应证",
+    "domain": "CSCO指南",
+    "confidence": 0.92
+  }
+]

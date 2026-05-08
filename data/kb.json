@@ -1,0 +1,684 @@
+{
+  "version": "1.0.0",
+  "generated_at": "2026-05-08T11:07:16.156976",
+  "total_triplets": 65,
+  "domains": [
+    "CSCO指南",
+    "分子分型",
+    "治疗",
+    "流行病学"
+  ],
+  "triplets": [
+    {
+      "head": "胃癌",
+      "relation": "Lauren分型",
+      "tail": "肠型",
+      "source": "Lauren 1965",
+      "evidence": "分化较好，预后相对较好",
+      "domain": "分子分型",
+      "confidence": 0.95,
+      "pmid": "14282676",
+      "source_file": "biomarkers.json"
+    },
+    {
+      "head": "胃癌",
+      "relation": "Lauren分型",
+      "tail": "弥漫型",
+      "source": "Lauren 1965",
+      "evidence": "分化差，黏附性差，预后较差",
+      "domain": "分子分型",
+      "confidence": 0.95,
+      "pmid": "14282676",
+      "source_file": "biomarkers.json"
+    },
+    {
+      "head": "胃癌",
+      "relation": "Lauren分型",
+      "tail": "混合型",
+      "source": "Lauren 1965",
+      "evidence": "兼有肠型和弥漫型特征",
+      "domain": "分子分型",
+      "confidence": 0.95,
+      "pmid": "14282676",
+      "source_file": "biomarkers.json"
+    },
+    {
+      "head": "胃癌",
+      "relation": "HER2阳性率",
+      "tail": "约7-34%",
+      "source": "ToGA研究",
+      "evidence": "原研胃癌临床研究汇总",
+      "domain": "分子分型",
+      "confidence": 0.9,
+      "pmid": "20876419",
+      "source_file": "biomarkers.json"
+    },
+    {
+      "head": "HER2阳性",
+      "relation": "检测方法",
+      "tail": "免疫组化(IHC)和原位杂交(ISH)",
+      "source": "CSCO指南",
+      "evidence": "IHC 3+直接阳性，IHC 2+需FISH确认",
+      "domain": "分子分型",
+      "confidence": 0.98,
+      "pmid": "20876419",
+      "source_file": "biomarkers.json"
+    },
+    {
+      "head": "胃癌",
+      "relation": "MSI-H/dMMR阳性率",
+      "tail": "约5-10%",
+      "source": "临床研究汇总",
+      "evidence": "转移性胃癌中比例",
+      "domain": "分子分型",
+      "confidence": 0.85,
+      "source_file": "biomarkers.json"
+    },
+    {
+      "head": "MSI-H/dMMR",
+      "relation": "临床意义",
+      "tail": "免疫检查点抑制剂获益人群",
+      "source": "Keynote-059, CheckMate 649",
+      "evidence": "高度微卫星不稳定提示免疫治疗有效",
+      "domain": "分子分型",
+      "confidence": 0.92,
+      "pmid": "28678981",
+      "source_file": "biomarkers.json"
+    },
+    {
+      "head": "胃癌",
+      "relation": "EBV阳性率",
+      "tail": "约8%",
+      "source": "临床病理研究",
+      "evidence": "EBV相关胃癌亚型",
+      "domain": "分子分型",
+      "confidence": 0.85,
+      "source_file": "biomarkers.json"
+    },
+    {
+      "head": "EBV阳性胃癌",
+      "relation": "分子特征",
+      "tail": "PD-L1高表达",
+      "source": "TCGA研究",
+      "evidence": "可能从免疫治疗获益",
+      "domain": "分子分型",
+      "confidence": 0.88,
+      "pmid": "26028288",
+      "source_file": "biomarkers.json"
+    },
+    {
+      "head": "胃癌",
+      "relation": "PD-L1表达检测",
+      "tail": "CPS评分",
+      "source": "FDA批准伴随诊断",
+      "evidence": "联合阳性评分=PD-L1阳性细胞/肿瘤细胞×100",
+      "domain": "分子分型",
+      "confidence": 0.95,
+      "pmid": "28678981",
+      "source_file": "biomarkers.json"
+    },
+    {
+      "head": "PD-L1 CPS",
+      "relation": "免疫治疗阈值",
+      "tail": "CPS≥5或CPS≥1",
+      "source": "CSCO 2024指南",
+      "evidence": "不同药物阈值不同",
+      "domain": "分子分型",
+      "confidence": 0.95,
+      "source_file": "biomarkers.json"
+    },
+    {
+      "head": "胃癌TCGA分型",
+      "relation": "EBV感染型",
+      "tail": "PIK3CA突变高频",
+      "source": "TCGA 2014",
+      "evidence": "四种分子亚型之一",
+      "domain": "分子分型",
+      "confidence": 0.92,
+      "pmid": "26028288",
+      "source_file": "biomarkers.json"
+    },
+    {
+      "head": "胃癌TCGA分型",
+      "relation": "微卫星不稳定型",
+      "tail": "MSI-H表型",
+      "source": "TCGA 2014",
+      "evidence": "四种分子亚型之一",
+      "domain": "分子分型",
+      "confidence": 0.92,
+      "pmid": "26028288",
+      "source_file": "biomarkers.json"
+    },
+    {
+      "head": "胃癌TCGA分型",
+      "relation": "基因组稳定型",
+      "tail": "弥漫型胃癌为主",
+      "source": "TCGA 2014",
+      "evidence": "四种分子亚型之一",
+      "domain": "分子分型",
+      "confidence": 0.92,
+      "pmid": "26028288",
+      "source_file": "biomarkers.json"
+    },
+    {
+      "head": "胃癌TCGA分型",
+      "relation": "染色体不稳定型",
+      "tail": "肠型胃癌为主",
+      "source": "TCGA 2014",
+      "evidence": "四种分子亚型之一，占比最高",
+      "domain": "分子分型",
+      "confidence": 0.92,
+      "pmid": "26028288",
+      "source_file": "biomarkers.json"
+    },
+    {
+      "head": "NGS基因检测",
+      "relation": "临床应用",
+      "tail": "靶向治疗和免疫治疗人群筛选",
+      "source": "CSCO指南",
+      "evidence": "多基因panel检测",
+      "domain": "分子分型",
+      "confidence": 0.9,
+      "source_file": "biomarkers.json"
+    },
+    {
+      "head": "早期胃癌",
+      "relation": "内镜下切除适应证",
+      "tail": "黏膜内癌，无溃疡或溃疡瘢痕，≤2cm分化型",
+      "source": "CSCO 2024指南",
+      "evidence": "绝对适应证：cT1a分化型，无溃疡，≤2cm",
+      "domain": "CSCO指南",
+      "confidence": 0.98,
+      "source_file": "csco_2024.json"
+    },
+    {
+      "head": "早期胃癌",
+      "relation": "内镜下切除方式",
+      "tail": "内镜黏膜下切除术(EMR)和内镜黏膜下剥离术(ESD)",
+      "source": "CSCO 2024指南",
+      "evidence": "ESD为首选，可整块切除",
+      "domain": "CSCO指南",
+      "confidence": 0.98,
+      "source_file": "csco_2024.json"
+    },
+    {
+      "head": "早期胃癌",
+      "relation": "非适应证处理",
+      "tail": "扩大适应证需综合评估后决定",
+      "source": "CSCO 2024指南",
+      "evidence": "需多学科讨论(MDT)",
+      "domain": "CSCO指南",
+      "confidence": 0.95,
+      "source_file": "csco_2024.json"
+    },
+    {
+      "head": "进展期胃癌",
+      "relation": "标准手术方式",
+      "tail": "D2根治术",
+      "source": "CSCO 2024指南",
+      "evidence": "D2淋巴结清扫是标准",
+      "domain": "CSCO指南",
+      "confidence": 0.98,
+      "source_file": "csco_2024.json"
+    },
+    {
+      "head": "进展期胃癌",
+      "relation": "辅助化疗适应证",
+      "tail": "pT2-4N0-3M0",
+      "source": "CSCO 2024指南",
+      "evidence": "术后病理证实的进展期",
+      "domain": "CSCO指南",
+      "confidence": 0.95,
+      "source_file": "csco_2024.json"
+    },
+    {
+      "head": "进展期胃癌",
+      "relation": "推荐辅助化疗方案",
+      "tail": "SOX或XELOX",
+      "source": "CSCO 2024指南",
+      "evidence": "术后辅助化疗标准方案",
+      "domain": "CSCO指南",
+      "confidence": 0.95,
+      "source_file": "csco_2024.json"
+    },
+    {
+      "head": "进展期胃癌",
+      "relation": "新辅助化疗方案",
+      "tail": "SOX或DOS",
+      "source": "CSCO 2024指南",
+      "evidence": "围手术期化疗证据充分",
+      "domain": "CSCO指南",
+      "confidence": 0.92,
+      "source_file": "csco_2024.json"
+    },
+    {
+      "head": "晚期胃癌一线",
+      "relation": "HER2阴性标准方案",
+      "tail": "SOX或XELOX",
+      "source": "CSCO 2024指南",
+      "evidence": "氟尿嘧啶+铂类为基础",
+      "domain": "CSCO指南",
+      "confidence": 0.95,
+      "source_file": "csco_2024.json"
+    },
+    {
+      "head": "晚期胃癌一线",
+      "relation": "HER2阳性靶向治疗",
+      "tail": "曲妥珠单抗+化疗",
+      "source": "ToGA研究/CSCO 2024指南",
+      "evidence": "抗HER2靶向联合化疗",
+      "domain": "CSCO指南",
+      "confidence": 0.95,
+      "pmid": "20876419",
+      "source_file": "csco_2024.json"
+    },
+    {
+      "head": "晚期胃癌一线",
+      "relation": "PD-1抑制剂适应证",
+      "tail": "MSI-H或PD-L1 CPS≥5",
+      "source": "CSCO 2024指南",
+      "evidence": "免疫联合化疗证据充分",
+      "domain": "CSCO指南",
+      "confidence": 0.95,
+      "source_file": "csco_2024.json"
+    },
+    {
+      "head": "晚期胃癌二线",
+      "relation": "推荐化疗方案",
+      "tail": "紫杉醇或多西他赛或伊立替康",
+      "source": "CSCO 2024指南",
+      "evidence": "单药或联合用药",
+      "domain": "CSCO指南",
+      "confidence": 0.92,
+      "source_file": "csco_2024.json"
+    },
+    {
+      "head": "晚期胃癌二线",
+      "relation": "抗血管生成治疗",
+      "tail": "雷莫芦单抗",
+      "source": "RAINBOW研究/CSCO 2024指南",
+      "evidence": "单药或联合紫杉醇",
+      "domain": "CSCO指南",
+      "confidence": 0.92,
+      "pmid": "24637969",
+      "source_file": "csco_2024.json"
+    },
+    {
+      "head": "晚期胃癌三线",
+      "relation": "靶向治疗选择",
+      "tail": "阿帕替尼(抗血管生成)",
+      "source": "CSCO 2024指南",
+      "evidence": "血管内皮生长因子受体2(VEGFR2)抑制剂",
+      "domain": "CSCO指南",
+      "confidence": 0.9,
+      "source_file": "csco_2024.json"
+    },
+    {
+      "head": "晚期胃癌三线",
+      "relation": "免疫治疗",
+      "tail": "PD-1抑制剂(纳武利尤单抗/帕博利珠单抗)",
+      "source": "CSCO 2024指南",
+      "evidence": "三线及以上选择",
+      "domain": "CSCO指南",
+      "confidence": 0.88,
+      "source_file": "csco_2024.json"
+    },
+    {
+      "head": "胃癌转化治疗",
+      "relation": "适用人群",
+      "tail": "初始不可切除但可能转化为可切除的胃癌",
+      "source": "CSCO 2024指南",
+      "evidence": "MDT评估后选择",
+      "domain": "CSCO指南",
+      "confidence": 0.9,
+      "source_file": "csco_2024.json"
+    },
+    {
+      "head": "胃癌MDT",
+      "relation": "适应证",
+      "tail": "所有胃癌患者均推荐MDT讨论",
+      "source": "CSCO 2024指南",
+      "evidence": "制定个体化治疗决策",
+      "domain": "CSCO指南",
+      "confidence": 0.95,
+      "source_file": "csco_2024.json"
+    },
+    {
+      "head": "胃癌",
+      "relation": "术后辅助放疗适应证",
+      "tail": "D2术后有淋巴结阳性或T4或切缘阳性",
+      "source": "CSCO 2024指南",
+      "evidence": "术后辅助放化疗适应证",
+      "domain": "CSCO指南",
+      "confidence": 0.92,
+      "source_file": "csco_2024.json"
+    },
+    {
+      "head": "胃癌",
+      "relation": "2022年中国新发病例数",
+      "tail": "35.87万",
+      "source": "国家癌症中心",
+      "evidence": "2022年中国恶性肿瘤流行情况分析",
+      "domain": "流行病学",
+      "confidence": 0.95,
+      "pmid": "37135636",
+      "source_file": "epidemiology.json"
+    },
+    {
+      "head": "胃癌",
+      "relation": "2022年中国死亡人数",
+      "tail": "约26万",
+      "source": "国家癌症中心",
+      "evidence": "2022年中国恶性肿瘤流行情况分析",
+      "domain": "流行病学",
+      "confidence": 0.95,
+      "pmid": "37135636",
+      "source_file": "epidemiology.json"
+    },
+    {
+      "head": "胃癌",
+      "relation": "病死比",
+      "tail": "约73%",
+      "source": "国家癌症中心",
+      "evidence": "死亡人数/新发病例数",
+      "domain": "流行病学",
+      "confidence": 0.9,
+      "pmid": "37135636",
+      "source_file": "epidemiology.json"
+    },
+    {
+      "head": "胃癌",
+      "relation": "全球发病率排名",
+      "tail": "第五位",
+      "source": "GLOBOCAN 2022",
+      "evidence": "全球癌症统计数据",
+      "domain": "流行病学",
+      "confidence": 0.95,
+      "source_file": "epidemiology.json"
+    },
+    {
+      "head": "胃癌",
+      "relation": "全球死亡率排名",
+      "tail": "第四位",
+      "source": "GLOBOCAN 2022",
+      "evidence": "全球癌症统计数据",
+      "domain": "流行病学",
+      "confidence": 0.95,
+      "source_file": "epidemiology.json"
+    },
+    {
+      "head": "幽门螺杆菌感染",
+      "relation": "与胃癌的关系",
+      "tail": "主要危险因素",
+      "source": "WHO/IARC",
+      "evidence": "Ⅰ类致癌原",
+      "domain": "流行病学",
+      "confidence": 0.98,
+      "pmid": "25720378",
+      "source_file": "epidemiology.json"
+    },
+    {
+      "head": "中国胃癌",
+      "relation": "高发地区分布",
+      "tail": "西北地区和东北地区",
+      "source": "中国恶性肿瘤流行数据",
+      "evidence": "地区发病率显著高于全国平均水平",
+      "domain": "流行病学",
+      "confidence": 0.9,
+      "source_file": "epidemiology.json"
+    },
+    {
+      "head": "胃癌",
+      "relation": "主要危险因素",
+      "tail": "腌制食品摄入",
+      "source": "流行病学研究",
+      "evidence": "亚硝基化合物暴露",
+      "domain": "流行病学",
+      "confidence": 0.85,
+      "source_file": "epidemiology.json"
+    },
+    {
+      "head": "胃癌",
+      "relation": "主要危险因素",
+      "tail": "吸烟",
+      "source": "IARC",
+      "evidence": "剂量效应关系明确",
+      "domain": "流行病学",
+      "confidence": 0.9,
+      "source_file": "epidemiology.json"
+    },
+    {
+      "head": "胃癌",
+      "relation": "保护因素",
+      "tail": "新鲜蔬菜水果摄入",
+      "source": "流行病学研究",
+      "evidence": "降低发病风险约30%",
+      "domain": "流行病学",
+      "confidence": 0.8,
+      "source_file": "epidemiology.json"
+    },
+    {
+      "head": "胃癌",
+      "relation": "性别差异",
+      "tail": "男性发病率约为女性的2倍",
+      "source": "GLOBOCAN 2022",
+      "evidence": "男性:女性发病率比值约2:1",
+      "domain": "流行病学",
+      "confidence": 0.95,
+      "source_file": "epidemiology.json"
+    },
+    {
+      "head": "胃癌",
+      "relation": "发病高峰年龄",
+      "tail": "60-80岁",
+      "source": "中国肿瘤登记数据",
+      "evidence": "60岁以上占全部病例70%以上",
+      "domain": "流行病学",
+      "confidence": 0.9,
+      "source_file": "epidemiology.json"
+    },
+    {
+      "head": "胃癌",
+      "relation": "五年生存率",
+      "tail": "约30-40%（中国）",
+      "source": "中国癌症生存率数据",
+      "evidence": "早诊早治可显著提高生存率",
+      "domain": "流行病学",
+      "confidence": 0.85,
+      "source_file": "epidemiology.json"
+    },
+    {
+      "head": "胃癌",
+      "relation": "早诊率",
+      "tail": "低于20%（中国）",
+      "source": "中国胃癌筛查数据",
+      "evidence": "日韩早诊率约50-70%",
+      "domain": "流行病学",
+      "confidence": 0.8,
+      "source_file": "epidemiology.json"
+    },
+    {
+      "head": "胃癌D2根治术",
+      "relation": "定义",
+      "tail": "标准淋巴结清扫，包括第1站和第2站淋巴结",
+      "source": "日本胃癌学会规约",
+      "evidence": "D1+D2淋巴结清扫",
+      "domain": "治疗",
+      "confidence": 0.98,
+      "source_file": "treatment.json"
+    },
+    {
+      "head": "胃癌D2根治术",
+      "relation": "D1淋巴结清扫范围",
+      "tail": "包括胃周淋巴结(No.1-7)",
+      "source": "日本胃癌学会规约",
+      "evidence": "根据胃切除范围确定",
+      "domain": "治疗",
+      "confidence": 0.98,
+      "source_file": "treatment.json"
+    },
+    {
+      "head": "胃癌D2根治术",
+      "relation": "D2淋巴结清扫范围",
+      "tail": "D1+肝十二指肠韧带、脾动脉、腹腔干周围淋巴结",
+      "source": "日本胃癌学会规约",
+      "evidence": "No.8a,9,11p,12a",
+      "domain": "治疗",
+      "confidence": 0.98,
+      "source_file": "treatment.json"
+    },
+    {
+      "head": "胃癌手术",
+      "relation": "切缘要求",
+      "tail": "近端切缘≥5cm，Lauren弥漫型需≥8cm",
+      "source": "CSCO指南",
+      "evidence": "确保R0切除",
+      "domain": "治疗",
+      "confidence": 0.95,
+      "source_file": "treatment.json"
+    },
+    {
+      "head": "SOX方案",
+      "relation": "药物组成",
+      "tail": "替吉奥(S-1)+奥沙利铂",
+      "source": "CSCO指南",
+      "evidence": "口服氟尿嘧啶类+铂类",
+      "domain": "治疗",
+      "confidence": 0.98,
+      "source_file": "treatment.json"
+    },
+    {
+      "head": "XELOX方案",
+      "relation": "药物组成",
+      "tail": "卡培他滨+奥沙利铂",
+      "source": "CSCO指南",
+      "evidence": "口服氟尿嘧啶类+铂类",
+      "domain": "治疗",
+      "confidence": 0.98,
+      "source_file": "treatment.json"
+    },
+    {
+      "head": "DOS方案",
+      "relation": "药物组成",
+      "tail": "多西他赛+奥沙利铂+替吉奥",
+      "source": "CSCO指南/FLOT4研究相关",
+      "evidence": "三药联合方案",
+      "domain": "治疗",
+      "confidence": 0.92,
+      "source_file": "treatment.json"
+    },
+    {
+      "head": "新辅助化疗",
+      "relation": "目的",
+      "tail": "降期、提高R0切除率、杀灭微转移灶",
+      "source": "CSCO指南",
+      "evidence": "围手术期化疗理念",
+      "domain": "治疗",
+      "confidence": 0.95,
+      "source_file": "treatment.json"
+    },
+    {
+      "head": "新辅助化疗",
+      "relation": "周期数",
+      "tail": "通常2-4周期",
+      "source": "CSCO指南",
+      "evidence": "根据疗效和耐受性调整",
+      "domain": "治疗",
+      "confidence": 0.9,
+      "source_file": "treatment.json"
+    },
+    {
+      "head": "辅助化疗",
+      "relation": "开始时间",
+      "tail": "术后4-6周内启动",
+      "source": "CSCO指南",
+      "evidence": "患者恢复后尽早开始",
+      "domain": "治疗",
+      "confidence": 0.95,
+      "source_file": "treatment.json"
+    },
+    {
+      "head": "辅助化疗",
+      "relation": "疗程",
+      "tail": "SOX或XELOX方案6个月",
+      "source": "CSCO指南/ACTS-GC研究",
+      "evidence": "替吉奥单药1年或联合奥沙利铂6个月",
+      "domain": "治疗",
+      "confidence": 0.92,
+      "source_file": "treatment.json"
+    },
+    {
+      "head": "转化治疗",
+      "relation": "定义",
+      "tail": "对不可切除病灶进行化疗，使肿瘤降期后获得手术机会",
+      "source": "CSCO指南",
+      "evidence": "针对初始不可切胃癌",
+      "domain": "治疗",
+      "confidence": 0.95,
+      "source_file": "treatment.json"
+    },
+    {
+      "head": "转化治疗",
+      "relation": "目标",
+      "tail": "R0切除",
+      "source": "CSCO指南",
+      "evidence": "手术切除是转化成功标准",
+      "domain": "治疗",
+      "confidence": 0.95,
+      "source_file": "treatment.json"
+    },
+    {
+      "head": "曲妥珠单抗",
+      "relation": "适应证",
+      "tail": "HER2阳性的进展期或晚期胃癌",
+      "source": "ToGA研究/CSCO指南",
+      "evidence": "IHC 3+或IHC 2+/FISH+",
+      "domain": "治疗",
+      "confidence": 0.95,
+      "pmid": "20876419",
+      "source_file": "treatment.json"
+    },
+    {
+      "head": "曲妥珠单抗",
+      "relation": "联合化疗方案",
+      "tail": "联合氟尿嘧啶+顺铂(ToGA方案)",
+      "source": "ToGA研究",
+      "evidence": "CSCO指南优先推荐",
+      "domain": "治疗",
+      "confidence": 0.95,
+      "pmid": "20876419",
+      "source_file": "treatment.json"
+    },
+    {
+      "head": "雷莫芦单抗",
+      "relation": "作用机制",
+      "tail": "VEGFR2拮抗剂，抑制肿瘤血管生成",
+      "source": "RAINBOW研究",
+      "evidence": "抗血管生成治疗",
+      "domain": "治疗",
+      "confidence": 0.95,
+      "pmid": "24637969",
+      "source_file": "treatment.json"
+    },
+    {
+      "head": "阿帕替尼",
+      "relation": "适应证",
+      "tail": "晚期胃癌三线及以上治疗",
+      "source": "CSCO指南",
+      "evidence": "中国原研抗血管生成小分子TKI",
+      "domain": "治疗",
+      "confidence": 0.9,
+      "source_file": "treatment.json"
+    },
+    {
+      "head": "免疫检查点抑制剂",
+      "relation": "代表药物",
+      "tail": "纳武利尤单抗、帕博利珠单抗、卡瑞利珠单抗、信迪利单抗",
+      "source": "CSCO 2024指南",
+      "evidence": "PD-1抑制剂",
+      "domain": "治疗",
+      "confidence": 0.95,
+      "source_file": "treatment.json"
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+[
+  {
+    "head": "胃癌",
+    "relation": "2022年中国新发病例数",
+    "tail": "35.87万",
+    "source": "国家癌症中心",
+    "evidence": "2022年中国恶性肿瘤流行情况分析",
+    "domain": "流行病学",
+    "confidence": 0.95,
+    "pmid": "37135636"
+  },
+  {
+    "head": "胃癌",
+    "relation": "2022年中国死亡人数",
+    "tail": "约26万",
+    "source": "国家癌症中心",
+    "evidence": "2022年中国恶性肿瘤流行情况分析",
+    "domain": "流行病学",
+    "confidence": 0.95,
+    "pmid": "37135636"
+  },
+  {
+    "head": "胃癌",
+    "relation": "病死比",
+    "tail": "约73%",
+    "source": "国家癌症中心",
+    "evidence": "死亡人数/新发病例数",
+    "domain": "流行病学",
+    "confidence": 0.90,
+    "pmid": "37135636"
+  },
+  {
+    "head": "胃癌",
+    "relation": "全球发病率排名",
+    "tail": "第五位",
+    "source": "GLOBOCAN 2022",
+    "evidence": "全球癌症统计数据",
+    "domain": "流行病学",
+    "confidence": 0.95
+  },
+  {
+    "head": "胃癌",
+    "relation": "全球死亡率排名",
+    "tail": "第四位",
+    "source": "GLOBOCAN 2022",
+    "evidence": "全球癌症统计数据",
+    "domain": "流行病学",
+    "confidence": 0.95
+  },
+  {
+    "head": "幽门螺杆菌感染",
+    "relation": "与胃癌的关系",
+    "tail": "主要危险因素",
+    "source": "WHO/IARC",
+    "evidence": "Ⅰ类致癌原",
+    "domain": "流行病学",
+    "confidence": 0.98,
+    "pmid": "25720378"
+  },
+  {
+    "head": "中国胃癌",
+    "relation": "高发地区分布",
+    "tail": "西北地区和东北地区",
+    "source": "中国恶性肿瘤流行数据",
+    "evidence": "地区发病率显著高于全国平均水平",
+    "domain": "流行病学",
+    "confidence": 0.90
+  },
+  {
+    "head": "胃癌",
+    "relation": "主要危险因素",
+    "tail": "腌制食品摄入",
+    "source": "流行病学研究",
+    "evidence": "亚硝基化合物暴露",
+    "domain": "流行病学",
+    "confidence": 0.85
+  },
+  {
+    "head": "胃癌",
+    "relation": "主要危险因素",
+    "tail": "吸烟",
+    "source": "IARC",
+    "evidence": "剂量效应关系明确",
+    "domain": "流行病学",
+    "confidence": 0.90
+  },
+  {
+    "head": "胃癌",
+    "relation": "保护因素",
+    "tail": "新鲜蔬菜水果摄入",
+    "source": "流行病学研究",
+    "evidence": "降低发病风险约30%",
+    "domain": "流行病学",
+    "confidence": 0.80
+  },
+  {
+    "head": "胃癌",
+    "relation": "性别差异",
+    "tail": "男性发病率约为女性的2倍",
+    "source": "GLOBOCAN 2022",
+    "evidence": "男性:女性发病率比值约2:1",
+    "domain": "流行病学",
+    "confidence": 0.95
+  },
+  {
+    "head": "胃癌",
+    "relation": "发病高峰年龄",
+    "tail": "60-80岁",
+    "source": "中国肿瘤登记数据",
+    "evidence": "60岁以上占全部病例70%以上",
+    "domain": "流行病学",
+    "confidence": 0.90
+  },
+  {
+    "head": "胃癌",
+    "relation": "五年生存率",
+    "tail": "约30-40%（中国）",
+    "source": "中国癌症生存率数据",
+    "evidence": "早诊早治可显著提高生存率",
+    "domain": "流行病学",
+    "confidence": 0.85
+  },
+  {
+    "head": "胃癌",
+    "relation": "早诊率",
+    "tail": "低于20%（中国）",
+    "source": "中国胃癌筛查数据",
+    "evidence": "日韩早诊率约50-70%",
+    "domain": "流行病学",
+    "confidence": 0.80
+  }
+]

@@ -1,0 +1,158 @@
+[
+  {
+    "head": "胃癌",
+    "relation": "Lauren分型",
+    "tail": "肠型",
+    "source": "Lauren 1965",
+    "evidence": "分化较好，预后相对较好",
+    "domain": "分子分型",
+    "confidence": 0.95,
+    "pmid": "14282676"
+  },
+  {
+    "head": "胃癌",
+    "relation": "Lauren分型",
+    "tail": "弥漫型",
+    "source": "Lauren 1965",
+    "evidence": "分化差，黏附性差，预后较差",
+    "domain": "分子分型",
+    "confidence": 0.95,
+    "pmid": "14282676"
+  },
+  {
+    "head": "胃癌",
+    "relation": "Lauren分型",
+    "tail": "混合型",
+    "source": "Lauren 1965",
+    "evidence": "兼有肠型和弥漫型特征",
+    "domain": "分子分型",
+    "confidence": 0.95,
+    "pmid": "14282676"
+  },
+  {
+    "head": "胃癌",
+    "relation": "HER2阳性率",
+    "tail": "约7-34%",
+    "source": "ToGA研究",
+    "evidence": "原研胃癌临床研究汇总",
+    "domain": "分子分型",
+    "confidence": 0.90,
+    "pmid": "20876419"
+  },
+  {
+    "head": "HER2阳性",
+    "relation": "检测方法",
+    "tail": "免疫组化(IHC)和原位杂交(ISH)",
+    "source": "CSCO指南",
+    "evidence": "IHC 3+直接阳性，IHC 2+需FISH确认",
+    "domain": "分子分型",
+    "confidence": 0.98,
+    "pmid": "20876419"
+  },
+  {
+    "head": "胃癌",
+    "relation": "MSI-H/dMMR阳性率",
+    "tail": "约5-10%",
+    "source": "临床研究汇总",
+    "evidence": "转移性胃癌中比例",
+    "domain": "分子分型",
+    "confidence": 0.85
+  },
+  {
+    "head": "MSI-H/dMMR",
+    "relation": "临床意义",
+    "tail": "免疫检查点抑制剂获益人群",
+    "source": "Keynote-059, CheckMate 649",
+    "evidence": "高度微卫星不稳定提示免疫治疗有效",
+    "domain": "分子分型",
+    "confidence": 0.92,
+    "pmid": "28678981"
+  },
+  {
+    "head": "胃癌",
+    "relation": "EBV阳性率",
+    "tail": "约8%",
+    "source": "临床病理研究",
+    "evidence": "EBV相关胃癌亚型",
+    "domain": "分子分型",
+    "confidence": 0.85
+  },
+  {
+    "head": "EBV阳性胃癌",
+    "relation": "分子特征",
+    "tail": "PD-L1高表达",
+    "source": "TCGA研究",
+    "evidence": "可能从免疫治疗获益",
+    "domain": "分子分型",
+    "confidence": 0.88,
+    "pmid": "26028288"
+  },
+  {
+    "head": "胃癌",
+    "relation": "PD-L1表达检测",
+    "tail": "CPS评分",
+    "source": "FDA批准伴随诊断",
+    "evidence": "联合阳性评分=PD-L1阳性细胞/肿瘤细胞×100",
+    "domain": "分子分型",
+    "confidence": 0.95,
+    "pmid": "28678981"
+  },
+  {
+    "head": "PD-L1 CPS",
+    "relation": "免疫治疗阈值",
+    "tail": "CPS≥5或CPS≥1",
+    "source": "CSCO 2024指南",
+    "evidence": "不同药物阈值不同",
+    "domain": "分子分型",
+    "confidence": 0.95
+  },
+  {
+    "head": "胃癌TCGA分型",
+    "relation": "EBV感染型",
+    "tail": "PIK3CA突变高频",
+    "source": "TCGA 2014",
+    "evidence": "四种分子亚型之一",
+    "domain": "分子分型",
+    "confidence": 0.92,
+    "pmid": "26028288"
+  },
+  {
+    "head": "胃癌TCGA分型",
+    "relation": "微卫星不稳定型",
+    "tail": "MSI-H表型",
+    "source": "TCGA 2014",
+    "evidence": "四种分子亚型之一",
+    "domain": "分子分型",
+    "confidence": 0.92,
+    "pmid": "26028288"
+  },
+  {
+    "head": "胃癌TCGA分型",
+    "relation": "基因组稳定型",
+    "tail": "弥漫型胃癌为主",
+    "source": "TCGA 2014",
+    "evidence": "四种分子亚型之一",
+    "domain": "分子分型",
+    "confidence": 0.92,
+    "pmid": "26028288"
+  },
+  {
+    "head": "胃癌TCGA分型",
+    "relation": "染色体不稳定型",
+    "tail": "肠型胃癌为主",
+    "source": "TCGA 2014",
+    "evidence": "四种分子亚型之一，占比最高",
+    "domain": "分子分型",
+    "confidence": 0.92,
+    "pmid": "26028288"
+  },
+  {
+    "head": "NGS基因检测",
+    "relation": "临床应用",
+    "tail": "靶向治疗和免疫治疗人群筛选",
+    "source": "CSCO指南",
+    "evidence": "多基因panel检测",
+    "domain": "分子分型",
+    "confidence": 0.90
+  }
+]

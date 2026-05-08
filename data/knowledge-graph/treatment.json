@@ -1,0 +1,167 @@
+[
+  {
+    "head": "胃癌D2根治术",
+    "relation": "定义",
+    "tail": "标准淋巴结清扫，包括第1站和第2站淋巴结",
+    "source": "日本胃癌学会规约",
+    "evidence": "D1+D2淋巴结清扫",
+    "domain": "治疗",
+    "confidence": 0.98
+  },
+  {
+    "head": "胃癌D2根治术",
+    "relation": "D1淋巴结清扫范围",
+    "tail": "包括胃周淋巴结(No.1-7)",
+    "source": "日本胃癌学会规约",
+    "evidence": "根据胃切除范围确定",
+    "domain": "治疗",
+    "confidence": 0.98
+  },
+  {
+    "head": "胃癌D2根治术",
+    "relation": "D2淋巴结清扫范围",
+    "tail": "D1+肝十二指肠韧带、脾动脉、腹腔干周围淋巴结",
+    "source": "日本胃癌学会规约",
+    "evidence": "No.8a,9,11p,12a",
+    "domain": "治疗",
+    "confidence": 0.98
+  },
+  {
+    "head": "胃癌手术",
+    "relation": "切缘要求",
+    "tail": "近端切缘≥5cm，Lauren弥漫型需≥8cm",
+    "source": "CSCO指南",
+    "evidence": "确保R0切除",
+    "domain": "治疗",
+    "confidence": 0.95
+  },
+  {
+    "head": "SOX方案",
+    "relation": "药物组成",
+    "tail": "替吉奥(S-1)+奥沙利铂",
+    "source": "CSCO指南",
+    "evidence": "口服氟尿嘧啶类+铂类",
+    "domain": "治疗",
+    "confidence": 0.98
+  },
+  {
+    "head": "XELOX方案",
+    "relation": "药物组成",
+    "tail": "卡培他滨+奥沙利铂",
+    "source": "CSCO指南",
+    "evidence": "口服氟尿嘧啶类+铂类",
+    "domain": "治疗",
+    "confidence": 0.98
+  },
+  {
+    "head": "DOS方案",
+    "relation": "药物组成",
+    "tail": "多西他赛+奥沙利铂+替吉奥",
+    "source": "CSCO指南/FLOT4研究相关",
+    "evidence": "三药联合方案",
+    "domain": "治疗",
+    "confidence": 0.92
+  },
+  {
+    "head": "新辅助化疗",
+    "relation": "目的",
+    "tail": "降期、提高R0切除率、杀灭微转移灶",
+    "source": "CSCO指南",
+    "evidence": "围手术期化疗理念",
+    "domain": "治疗",
+    "confidence": 0.95
+  },
+  {
+    "head": "新辅助化疗",
+    "relation": "周期数",
+    "tail": "通常2-4周期",
+    "source": "CSCO指南",
+    "evidence": "根据疗效和耐受性调整",
+    "domain": "治疗",
+    "confidence": 0.90
+  },
+  {
+    "head": "辅助化疗",
+    "relation": "开始时间",
+    "tail": "术后4-6周内启动",
+    "source": "CSCO指南",
+    "evidence": "患者恢复后尽早开始",
+    "domain": "治疗",
+    "confidence": 0.95
+  },
+  {
+    "head": "辅助化疗",
+    "relation": "疗程",
+    "tail": "SOX或XELOX方案6个月",
+    "source": "CSCO指南/ACTS-GC研究",
+    "evidence": "替吉奥单药1年或联合奥沙利铂6个月",
+    "domain": "治疗",
+    "confidence": 0.92
+  },
+  {
+    "head": "转化治疗",
+    "relation": "定义",
+    "tail": "对不可切除病灶进行化疗，使肿瘤降期后获得手术机会",
+    "source": "CSCO指南",
+    "evidence": "针对初始不可切胃癌",
+    "domain": "治疗",
+    "confidence": 0.95
+  },
+  {
+    "head": "转化治疗",
+    "relation": "目标",
+    "tail": "R0切除",
+    "source": "CSCO指南",
+    "evidence": "手术切除是转化成功标准",
+    "domain": "治疗",
+    "confidence": 0.95
+  },
+  {
+    "head": "曲妥珠单抗",
+    "relation": "适应证",
+    "tail": "HER2阳性的进展期或晚期胃癌",
+    "source": "ToGA研究/CSCO指南",
+    "evidence": "IHC 3+或IHC 2+/FISH+",
+    "domain": "治疗",
+    "confidence": 0.95,
+    "pmid": "20876419"
+  },
+  {
+    "head": "曲妥珠单抗",
+    "relation": "联合化疗方案",
+    "tail": "联合氟尿嘧啶+顺铂(ToGA方案)",
+    "source": "ToGA研究",
+    "evidence": "CSCO指南优先推荐",
+    "domain": "治疗",
+    "confidence": 0.95,
+    "pmid": "20876419"
+  },
+  {
+    "head": "雷莫芦单抗",
+    "relation": "作用机制",
+    "tail": "VEGFR2拮抗剂，抑制肿瘤血管生成",
+    "source": "RAINBOW研究",
+    "evidence": "抗血管生成治疗",
+    "domain": "治疗",
+    "confidence": 0.95,
+    "pmid": "24637969"
+  },
+  {
+    "head": "阿帕替尼",
+    "relation": "适应证",
+    "tail": "晚期胃癌三线及以上治疗",
+    "source": "CSCO指南",
+    "evidence": "中国原研抗血管生成小分子TKI",
+    "domain": "治疗",
+    "confidence": 0.90
+  },
+  {
+    "head": "免疫检查点抑制剂",
+    "relation": "代表药物",
+    "tail": "纳武利尤单抗、帕博利珠单抗、卡瑞利珠单抗、信迪利单抗",
+    "source": "CSCO 2024指南",
+    "evidence": "PD-1抑制剂",
+    "domain": "治疗",
+    "confidence": 0.95
+  }
+]

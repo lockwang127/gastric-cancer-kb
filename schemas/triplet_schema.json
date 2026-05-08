@@ -1,0 +1,55 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "胃癌知识库三元组Schema",
+  "description": "知识三元组数据结构定义",
+  "type": "object",
+  "required": ["head", "relation", "tail", "source", "evidence", "domain", "confidence"],
+  "properties": {
+    "head": {
+      "type": "string",
+      "description": "知识头实体",
+      "examples": ["胃癌", "HER2阳性", "SOX方案"]
+    },
+    "relation": {
+      "type": "string",
+      "description": "关系类型",
+      "examples": ["2022年中国新发病例数", "HER2阳性率", "药物组成"]
+    },
+    "tail": {
+      "type": "string",
+      "description": "知识尾实体/属性值",
+      "examples": ["35.87万", "约7-34%", "替吉奥(S-1)+奥沙利铂"]
+    },
+    "source": {
+      "type": "string",
+      "description": "数据来源",
+      "examples": ["国家癌症中心", "CSCO 2024指南", "ToGA研究"]
+    },
+    "evidence": {
+      "type": "string",
+      "description": "证据说明",
+      "examples": ["2022年中国恶性肿瘤流行情况分析", "术后辅助化疗标准方案"]
+    },
+    "domain": {
+      "type": "string",
+      "description": "知识领域分类",
+      "enum": ["流行病学", "分子分型", "CSCO指南", "治疗"],
+      "examples": ["流行病学", "分子分型", "CSCO指南", "治疗"]
+    },
+    "confidence": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1,
+      "description": "置信度评分 (0-1)"
+    },
+    "pmid": {
+      "type": "string",
+      "description": "PubMed文献ID (可选)",
+      "examples": ["37135636", "20876419", "24637969"]
+    },
+    "source_file": {
+      "type": "string",
+      "description": "来源文件名 (自动生成)"
+    }
+  }
+}

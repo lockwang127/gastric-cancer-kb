@@ -1,0 +1,380 @@
+[
+  {
+    "head": "胃癌",
+    "relation": "早期癌内镜切除后随访",
+    "tail": "每年胃镜检查",
+    "source": "CSCO/Japanese GC Guidelines",
+    "evidence": "I级专家共识",
+    "domain": "support_care",
+    "confidence": 0.90
+  },
+  {
+    "head": "胃癌",
+    "relation": "进展期手术后排尿功能",
+    "tail": "术后尿潴留需留置尿管",
+    "source": "CSCO术后管理指南",
+    "evidence": "I级专家共识",
+    "domain": "support_care",
+    "confidence": 0.85
+  },
+  {
+    "head": "胃癌术后",
+    "relation": "乳糜漏处理",
+    "tail": "轻症保守治疗，重症需手术结扎",
+    "source": "CSCO术后并发症管理",
+    "evidence": "I级专家共识",
+    "domain": "support_care",
+    "confidence": 0.82
+  },
+  {
+    "head": "胃癌",
+    "relation": "远处转移治疗原则",
+    "tail": "以系统性治疗为主，局部治疗为辅",
+    "source": "CSCO 2025指南",
+    "evidence": "I级专家共识",
+    "domain": "treatment",
+    "confidence": 0.92
+  },
+  {
+    "head": "胃癌肝转移",
+    "relation": "治疗",
+    "tail": "寡转移可切除者可行转移灶切除+化疗",
+    "source": "CSCO 2025指南",
+    "evidence": "I级专家共识",
+    "domain": "treatment",
+    "confidence": 0.85
+  },
+  {
+    "head": "胃癌腹膜转移",
+    "relation": "治疗",
+    "tail": "系统性化疗±腹腔热灌注化疗",
+    "source": "CSCO腹膜转移指南",
+    "evidence": "II级专家共识",
+    "domain": "treatment",
+    "confidence": 0.80
+  },
+  {
+    "head": "胃癌",
+    "relation": "梗阻治疗",
+    "tail": "支架/短路手术/胃肠造口",
+    "source": "CSCO姑息治疗指南",
+    "evidence": "I级专家共识",
+    "domain": "treatment",
+    "confidence": 0.88
+  },
+  {
+    "head": "胃癌",
+    "relation": "出血治疗",
+    "tail": "内镜止血/介入栓塞/手术",
+    "source": "CSCO急性出血管理指南",
+    "evidence": "I级专家共识",
+    "domain": "treatment",
+    "confidence": 0.88
+  },
+  {
+    "head": "胃癌",
+    "relation": "体能状态评估",
+    "tail": "ECOG PS评分",
+    "source": "CSCO 2025指南",
+    "evidence": "I级",
+    "domain": "diagnosis",
+    "confidence": 0.95
+  },
+  {
+    "head": "胃癌",
+    "relation": "营养状态评估",
+    "tail": "PG-SGA评分",
+    "source": "CSCO营养支持指南",
+    "evidence": "I级专家共识",
+    "domain": "diagnosis",
+    "confidence": 0.90
+  },
+  {
+    "head": "胃癌",
+    "relation": "分期检查",
+    "tail": "胸腹盆CT+胃镜±EUS",
+    "source": "CSCO 2025指南",
+    "evidence": "I级",
+    "domain": "diagnosis",
+    "confidence": 0.95
+  },
+  {
+    "head": "胃癌",
+    "relation": "PET-CT应用",
+    "tail": "用于排除远处转移，不建议常规使用",
+    "source": "CSCO影像诊断指南",
+    "evidence": "I级",
+    "domain": "diagnosis",
+    "confidence": 0.85
+  },
+  {
+    "head": "胃癌",
+    "relation": "腹腔灌洗细胞学",
+    "tail": "腹腔探查时进行，阳性提示预后差",
+    "source": "CSCO 2025指南",
+    "evidence": "I级",
+    "domain": "diagnosis",
+    "confidence": 0.88
+  },
+  {
+    "head": "胃癌",
+    "relation": "组织学类型",
+    "tail": "腺癌最常见（90%以上）",
+    "source": "WHO胃肿瘤分类",
+    "evidence": "I级",
+    "domain": "diagnosis",
+    "confidence": 0.95
+  },
+  {
+    "head": "胃癌",
+    "relation": "少见组织学类型",
+    "tail": "印戒细胞癌/低分化腺癌/神经内分泌癌",
+    "source": "WHO胃肿瘤分类",
+    "evidence": "I级",
+    "domain": "diagnosis",
+    "confidence": 0.90
+  },
+  {
+    "head": "胃神经内分泌肿瘤",
+    "relation": "分类",
+    "tail": "G1/G2/G3和神经内分泌癌(NEC)",
+    "source": "WHO NET分类",
+    "evidence": "I级",
+    "domain": "diagnosis",
+    "confidence": 0.90
+  },
+  {
+    "head": "胃神经内分泌肿瘤G1/G2",
+    "relation": "治疗",
+    "tail": "内镜切除或手术",
+    "source": "CSCO/NCCN神经内分泌肿瘤指南",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.88
+  },
+  {
+    "head": "胃神经内分泌癌",
+    "relation": "治疗",
+    "tail": "按胃癌原则治疗，可考虑EP/DP方案",
+    "source": "CSCO神经内分泌肿瘤指南",
+    "evidence": "I级专家共识",
+    "domain": "treatment",
+    "confidence": 0.85
+  },
+  {
+    "head": "胃癌胃泌素瘤(ZES)",
+    "relation": "治疗",
+    "tail": "质子泵抑制剂+手术切除",
+    "source": "CSCO神经内分泌肿瘤指南",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.88
+  },
+  {
+    "head": "胃癌",
+    "relation": "GIST并发胃癌",
+    "tail": "罕见，可同时发生",
+    "source": "WHO分类/CSCO指南",
+    "evidence": "II级专家共识",
+    "domain": "diagnosis",
+    "confidence": 0.80
+  },
+  {
+    "head": "胃癌GIST",
+    "relation": "治疗",
+    "tail": "伊马替尼用于转移性GIST",
+    "source": "CSCO/NCCN GIST指南",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.90
+  },
+  {
+    "head": "胃癌",
+    "relation": "淋巴瘤",
+    "tail": "MALT淋巴瘤与Hp感染相关",
+    "source": "WHO分类/CSCO指南",
+    "evidence": "I级",
+    "domain": "diagnosis",
+    "confidence": 0.88
+  },
+  {
+    "head": "胃MALT淋巴瘤",
+    "relation": "治疗",
+    "tail": "Hp根除治疗为一线",
+    "source": "CSCO/NCCN淋巴瘤指南",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.92
+  },
+  {
+    "head": "胃癌",
+    "relation": "营养不良风险",
+    "tail": "NRS2002≥3分需营养支持",
+    "source": "CSCO营养风险筛查指南",
+    "evidence": "I级专家共识",
+    "domain": "support_care",
+    "confidence": 0.88
+  },
+  {
+    "head": "胃癌",
+    "relation": "口服营养补充",
+    "tail": "ONS可改善营养状态和QoL",
+    "source": "CSCO营养支持指南",
+    "evidence": "I级专家共识",
+    "domain": "support_care",
+    "confidence": 0.85
+  },
+  {
+    "head": "胃癌恶液质",
+    "relation": "定义",
+    "tail": "体重下降>5%或BMI<18.5伴肌肉减少",
+    "source": "CSCO恶液质诊断标准",
+    "evidence": "I级",
+    "domain": "diagnosis",
+    "confidence": 0.90
+  },
+  {
+    "head": "胃癌恶液质",
+    "relation": "干预措施",
+    "tail": "营养支持+食欲刺激±孕激素",
+    "source": "CSCO恶液质管理指南",
+    "evidence": "I级专家共识",
+    "domain": "support_care",
+    "confidence": 0.85
+  },
+  {
+    "head": "胃癌患者",
+    "relation": "生活质量评估",
+    "tail": "EORTC QLQ-STO22量表",
+    "source": "CSCO QoL评估指南",
+    "evidence": "II级专家共识",
+    "domain": "support_care",
+    "confidence": 0.82
+  },
+  {
+    "head": "胃癌",
+    "relation": "心理痛苦筛查",
+    "tail": "推荐使用Distress Thermometer",
+    "source": "CSCO心理支持指南",
+    "evidence": "II级专家共识",
+    "domain": "support_care",
+    "confidence": 0.80
+  },
+  {
+    "head": "胃癌患者",
+    "relation": "焦虑抑郁评估",
+    "tail": "HADS量表筛查",
+    "source": "CSCO心理支持指南",
+    "evidence": "II级专家共识",
+    "domain": "support_care",
+    "confidence": 0.80
+  },
+  {
+    "head": "胃癌",
+    "relation": "随访肿瘤标志物",
+    "tail": "每3-6个月检测CEA/CA19-9/CA72-4",
+    "source": "CSCO 2025指南",
+    "evidence": "I级专家共识",
+    "domain": "support_care",
+    "confidence": 0.88
+  },
+  {
+    "head": "胃癌",
+    "relation": "随访影像学",
+    "tail": "每6-12个月胸腹盆CT",
+    "source": "CSCO 2025指南",
+    "evidence": "I级专家共识",
+    "domain": "support_care",
+    "confidence": 0.88
+  },
+  {
+    "head": "胃癌复发模式",
+    "relation": "常见类型",
+    "tail": "吻合口复发/腹膜复发/肝转移",
+    "source": "CSCO复发监测指南",
+    "evidence": "I级",
+    "domain": "epidemiology",
+    "confidence": 0.90
+  },
+  {
+    "head": "胃癌",
+    "relation": "复发监测",
+    "tail": "定期复查，早期发现复发",
+    "source": "CSCO随访指南",
+    "evidence": "I级专家共识",
+    "domain": "support_care",
+    "confidence": 0.90
+  },
+  {
+    "head": "胃癌",
+    "relation": "预后因素",
+    "tail": "分期/Lauren分型/手术质量/分子标志物",
+    "source": "CSCO预后评估指南",
+    "evidence": "I级",
+    "domain": "epidemiology",
+    "confidence": 0.90
+  },
+  {
+    "head": "早期胃癌",
+    "relation": "预后",
+    "tail": "内镜切除后5年生存率>95%",
+    "source": "日本胃癌治疗数据",
+    "evidence": "I级",
+    "domain": "epidemiology",
+    "confidence": 0.92
+  },
+  {
+    "head": "进展期胃癌",
+    "relation": "预后",
+    "tail": "D2术后5年生存率约50-60%",
+    "source": "日本胃癌手术数据库",
+    "evidence": "I级",
+    "domain": "epidemiology",
+    "confidence": 0.88
+  },
+  {
+    "head": "晚期胃癌",
+    "relation": "中位OS",
+    "tail": "一线化疗约11-14月",
+    "source": "CheckMate 649等研究",
+    "evidence": "I级",
+    "domain": "epidemiology",
+    "confidence": 0.88
+  },
+  {
+    "head": "胃癌",
+    "relation": "分子预后标志物",
+    "tail": "MSI-H/dMMR提示预后相对较好",
+    "source": "TCGA/临床研究",
+    "evidence": "I级",
+    "domain": "molecular",
+    "confidence": 0.88
+  },
+  {
+    "head": "胃癌",
+    "relation": "术后辅助免疫治疗",
+    "tail": "研究进行中",
+    "source": "多项III期研究",
+    "evidence": "II级",
+    "domain": "new_targets",
+    "confidence": 0.75
+  },
+  {
+    "head": "胃癌",
+    "relation": "新靶点Claudin 18.2",
+    "tail": "CAR-T、双抗、ADC多技术路线在研",
+    "source": "多项临床前/临床研究",
+    "evidence": "II级",
+    "domain": "new_targets",
+    "confidence": 0.82
+  },
+  {
+    "head": "胃癌",
+    "relation": "B7-H3靶点",
+    "tail": "ADC等药物在研究中",
+    "source": "NCT05482822等",
+    "evidence": "II级",
+    "domain": "new_targets",
+    "confidence": 0.75
+  }
+]

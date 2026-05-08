@@ -1,0 +1,276 @@
+[
+  {
+    "head": "中国胃癌",
+    "relation": "2022年新发病例数",
+    "tail": "约35.87万例",
+    "source": "国家癌症中心 2022",
+    "evidence": "I级",
+    "domain": "epidemiology",
+    "confidence": 0.95,
+    "pmid": "37135636"
+  },
+  {
+    "head": "中国胃癌",
+    "relation": "2022年死亡人数",
+    "tail": "约26万例",
+    "source": "国家癌症中心 2022",
+    "evidence": "I级",
+    "domain": "epidemiology",
+    "confidence": 0.95,
+    "pmid": "37135636"
+  },
+  {
+    "head": "中国胃癌",
+    "relation": "病死比",
+    "tail": "约73%",
+    "source": "国家癌症中心计算",
+    "evidence": "I级",
+    "domain": "epidemiology",
+    "confidence": 0.90
+  },
+  {
+    "head": "胃癌全球",
+    "relation": "发病率排名",
+    "tail": "第五位恶性肿瘤",
+    "source": "GLOBOCAN 2022",
+    "evidence": "I级",
+    "domain": "epidemiology",
+    "confidence": 0.95
+  },
+  {
+    "head": "胃癌全球",
+    "relation": "死亡率排名",
+    "tail": "第四位恶性肿瘤",
+    "source": "GLOBOCAN 2022",
+    "evidence": "I级",
+    "domain": "epidemiology",
+    "confidence": 0.95
+  },
+  {
+    "head": "中国胃癌",
+    "relation": "高发地区",
+    "tail": "西北地区（甘肃/青海/宁夏）和东北地区",
+    "source": "中国恶性肿瘤流行数据",
+    "evidence": "I级",
+    "domain": "epidemiology",
+    "confidence": 0.90
+  },
+  {
+    "head": "胃癌",
+    "relation": "性别差异",
+    "tail": "男性发病率约为女性的2倍",
+    "source": "GLOBOCAN 2022",
+    "evidence": "I级",
+    "domain": "epidemiology",
+    "confidence": 0.95
+  },
+  {
+    "head": "胃癌",
+    "relation": "发病高峰年龄",
+    "tail": "60-80岁",
+    "source": "中国肿瘤登记数据",
+    "evidence": "I级",
+    "domain": "epidemiology",
+    "confidence": 0.90
+  },
+  {
+    "head": "幽门螺杆菌感染",
+    "relation": "胃癌风险",
+    "tail": "Ⅰ类致癌原，约60%的胃癌可归因于Hp感染",
+    "source": "WHO/IARC (1994)",
+    "evidence": "I级",
+    "domain": "epidemiology",
+    "confidence": 0.98,
+    "pmid": "25720378"
+  },
+  {
+    "head": "胃癌",
+    "relation": "主要危险因素",
+    "tail": "腌制食品/亚硝酸盐摄入",
+    "source": "流行病学研究",
+    "evidence": "I级",
+    "domain": "epidemiology",
+    "confidence": 0.88
+  },
+  {
+    "head": "胃癌",
+    "relation": "主要危险因素",
+    "tail": "吸烟",
+    "source": "IARC",
+    "evidence": "I级",
+    "domain": "epidemiology",
+    "confidence": 0.90
+  },
+  {
+    "head": "胃癌",
+    "relation": "保护因素",
+    "tail": "新鲜蔬菜水果摄入",
+    "source": "流行病学研究",
+    "evidence": "I级",
+    "domain": "epidemiology",
+    "confidence": 0.85
+  },
+  {
+    "head": "胃癌",
+    "relation": "早诊率",
+    "tail": "低于20%（中国）",
+    "source": "中国胃癌筛查数据",
+    "evidence": "I级",
+    "domain": "epidemiology",
+    "confidence": 0.82
+  },
+  {
+    "head": "胃癌",
+    "relation": "5年生存率",
+    "tail": "约30-40%（中国）",
+    "source": "中国癌症生存率数据",
+    "evidence": "I级",
+    "domain": "epidemiology",
+    "confidence": 0.85
+  },
+  {
+    "head": "早期胃癌",
+    "relation": "5年生存率",
+    "tail": "可达90%以上",
+    "source": "日本胃癌筛查数据",
+    "evidence": "I级",
+    "domain": "epidemiology",
+    "confidence": 0.92
+  },
+  {
+    "head": "进展期胃癌",
+    "relation": "5年生存率",
+    "tail": "约20-30%",
+    "source": "SEER数据库",
+    "evidence": "I级",
+    "domain": "epidemiology",
+    "confidence": 0.85
+  },
+  {
+    "head": "胃癌",
+    "relation": "遗传性比例",
+    "tail": "约5-10%",
+    "source": "NCCN遗传性胃癌指南",
+    "evidence": "I级",
+    "domain": "epidemiology",
+    "confidence": 0.88
+  },
+  {
+    "head": "家族性弥漫型胃癌(HDGC)",
+    "relation": "定义标准",
+    "tail": "至少2名一级亲属患弥漫型胃癌，至少1人50岁前诊断",
+    "source": "IGCLC标准",
+    "evidence": "I级",
+    "domain": "epidemiology",
+    "confidence": 0.90
+  },
+  {
+    "head": "CDH1突变携带者",
+    "relation": "弥漫型胃癌终生风险",
+    "tail": "男性约67-80%，女性约56-83%",
+    "source": "IGCLC / NCCN遗传性胃癌指南",
+    "evidence": "I级",
+    "domain": "epidemiology",
+    "confidence": 0.88
+  },
+  {
+    "head": "CDH1突变携带者",
+    "relation": "预防性胃切除",
+    "tail": "可降低胃癌风险，但需充分评估",
+    "source": "NCCN遗传性胃癌指南",
+    "evidence": "II级专家共识",
+    "domain": "epidemiology",
+    "confidence": 0.85
+  },
+  {
+    "head": "胃癌",
+    "relation": "早筛方法",
+    "tail": "胃镜筛查是高危人群首选方法",
+    "source": "中国胃癌筛查指南",
+    "evidence": "I级",
+    "domain": "epidemiology",
+    "confidence": 0.95
+  },
+  {
+    "head": "中国胃癌高危人群",
+    "relation": "定义",
+    "tail": "40岁以上，有胃癌家族史，Hp感染，胃部疾病史，高发地区",
+    "source": "中国胃癌筛查指南",
+    "evidence": "I级",
+    "domain": "epidemiology",
+    "confidence": 0.92
+  },
+  {
+    "head": "胃癌",
+    "relation": "转移途径",
+    "tail": "直接蔓延/淋巴转移/血行转移/种植转移",
+    "source": "CSCO临床诊断指南",
+    "evidence": "I级",
+    "domain": "epidemiology",
+    "confidence": 0.95
+  },
+  {
+    "head": "胃癌",
+    "relation": "常见转移部位",
+    "tail": "肝脏/腹膜/远处淋巴结/肺",
+    "source": "CSCO 2025指南",
+    "evidence": "I级",
+    "domain": "epidemiology",
+    "confidence": 0.92
+  },
+  {
+    "head": "胃癌腹膜转移",
+    "relation": "发生率",
+    "tail": "T4期约50%，弥漫型胃癌常见",
+    "source": "CSCO 2025指南",
+    "evidence": "I级",
+    "domain": "epidemiology",
+    "confidence": 0.88
+  },
+  {
+    "head": "胃癌",
+    "relation": "流行病学趋势",
+    "tail": "发病率略有下降，肠型减少，弥漫型相对增加",
+    "source": "GLOBOCAN趋势分析",
+    "evidence": "I级",
+    "domain": "epidemiology",
+    "confidence": 0.85
+  },
+  {
+    "head": "胃食管结合部癌",
+    "relation": "定义",
+    "tail": "肿瘤中心位于胃食管交界处上下5cm区域",
+    "source": "Siewert分类",
+    "evidence": "I级",
+    "domain": "epidemiology",
+    "confidence": 0.92
+  },
+  {
+    "head": "胃印戒细胞癌",
+    "relation": "特点",
+    "tail": "弥漫型胃癌，侵袭性强，预后差",
+    "source": "WHO分类 / Lauren分型",
+    "evidence": "I级",
+    "domain": "epidemiology",
+    "confidence": 0.90
+  },
+  {
+    "head": "胃癌",
+    "relation": "EBV相关胃癌",
+    "relation_detail": "预后相对较好",
+    "tail": "约占胃癌8%，对免疫治疗可能敏感",
+    "source": "TCGA分子分型",
+    "evidence": "I级",
+    "domain": "epidemiology",
+    "confidence": 0.85
+  },
+  {
+    "head": "胃癌",
+    "relation": "饮食因素",
+    "tail": "高盐饮食增加风险，重盐摄入国家发病率高",
+    "source": "IARC/WHO",
+    "evidence": "I级",
+    "domain": "epidemiology",
+    "confidence": 0.88
+  }
+]

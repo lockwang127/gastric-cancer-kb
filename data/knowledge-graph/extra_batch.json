@@ -1,0 +1,362 @@
+[
+  {
+    "head": "胃癌手术",
+    "relation": "近端胃切除适应证",
+    "tail": "胃上部早期癌，保留远端胃",
+    "source": "CSCO/Japanese GC Guidelines",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.90
+  },
+  {
+    "head": "胃癌手术",
+    "relation": "全胃切除适应证",
+    "tail": "胃中部/上部癌、弥漫型癌、多发癌",
+    "source": "CSCO 2025指南",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.92
+  },
+  {
+    "head": "胃癌手术",
+    "relation": "联合脏器切除适应证",
+    "tail": "侵犯邻近器官时可行联合切除",
+    "source": "CSCO 2025指南",
+    "evidence": "I级专家共识",
+    "domain": "treatment",
+    "confidence": 0.88
+  },
+  {
+    "head": "胃癌",
+    "relation": "腹腔镜手术适应证",
+    "tail": "早期胃癌可考虑腹腔镜手术",
+    "source": "CSCO/Japanese GC Guidelines",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.88
+  },
+  {
+    "head": "胃癌",
+    "relation": "机器人手术",
+    "tail": "在复杂手术中可考虑",
+    "source": "CSCO手术指南",
+    "evidence": "II级专家共识",
+    "domain": "treatment",
+    "confidence": 0.82
+  },
+  {
+    "head": "胃癌",
+    "relation": "消化道重建方式",
+    "tail": "全胃切除后Roux-en-Y，近端胃切除后双通道",
+    "source": "CSCO 2025指南",
+    "evidence": "I级专家共识",
+    "domain": "treatment",
+    "confidence": 0.90
+  },
+  {
+    "head": "胃癌",
+    "relation": "术后并发症",
+    "tail": "吻合口漏/胰漏/腹腔感染/肠梗阻",
+    "source": "CSCO术后并发症管理指南",
+    "evidence": "I级",
+    "domain": "support_care",
+    "confidence": 0.90
+  },
+  {
+    "head": "胃癌术后",
+    "relation": "营养管理",
+    "tail": "术后肠内营养为主，逐步过渡至经口进食",
+    "source": "CSCO/ERAS营养指南",
+    "evidence": "I级专家共识",
+    "domain": "support_care",
+    "confidence": 0.90
+  },
+  {
+    "head": "胃癌",
+    "relation": "辅助化疗疗程",
+    "tail": "SOX或XELOX方案6个月",
+    "source": "CSCO 2025指南",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.95
+  },
+  {
+    "head": "胃癌",
+    "relation": "新辅助化疗周期",
+    "tail": "通常2-4周期",
+    "source": "CSCO 2025指南",
+    "evidence": "I级专家共识",
+    "domain": "treatment",
+    "confidence": 0.90
+  },
+  {
+    "head": "胃癌",
+    "relation": "转化治疗成功标准",
+    "tail": "R0切除",
+    "source": "CSCO 2025指南",
+    "evidence": "I级专家共识",
+    "domain": "treatment",
+    "confidence": 0.92
+  },
+  {
+    "head": "胃癌",
+    "relation": "辅助放疗适应证",
+    "tail": "D2术后有淋巴结阳性或T4或切缘阳性",
+    "source": "CSCO 2025指南",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.92
+  },
+  {
+    "head": "胃癌",
+    "relation": "姑息放疗适应证",
+    "tail": "止血/止痛/解除梗阻",
+    "source": "CSCO姑息放疗指南",
+    "evidence": "I级专家共识",
+    "domain": "treatment",
+    "confidence": 0.88
+  },
+  {
+    "head": "胃癌",
+    "relation": "S-1用法",
+    "tail": "40mg/m² bid d1-28，q6w",
+    "source": "CSCO指南 /ACTS-GC研究",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.95
+  },
+  {
+    "head": "胃癌",
+    "relation": "卡培他滨用法",
+    "tail": "1000mg/m² bid d1-14，q3w",
+    "source": "CSCO指南",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.95
+  },
+  {
+    "head": "胃癌",
+    "relation": "顺铂用法",
+    "tail": "60-75mg/m² d1，q3w或40mg/m² d1,8，q3w",
+    "source": "CSCO指南",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.95
+  },
+  {
+    "head": "胃癌",
+    "relation": "奥沙利铂用法",
+    "tail": "130mg/m² d1，q3w",
+    "source": "CSCO指南",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.95
+  },
+  {
+    "head": "胃癌",
+    "relation": "紫杉醇用法",
+    "tail": "80mg/m² d1,8,15，q4w或135-175mg/m² d1，q3w",
+    "source": "CSCO指南",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.95
+  },
+  {
+    "head": "胃癌",
+    "relation": "多西他赛用法",
+    "tail": "75mg/m² d1，q3w",
+    "source": "CSCO指南",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.95
+  },
+  {
+    "head": "胃癌",
+    "relation": "伊立替康用法",
+    "tail": "150-180mg/m² d1，q2w或125mg/m² d1,8，q3w",
+    "source": "CSCO指南",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.95
+  },
+  {
+    "head": "胃癌分子分型",
+    "relation": "临床意义",
+    "tail": "指导靶向和免疫治疗选择",
+    "source": "TCGA / CSCO指南",
+    "evidence": "I级",
+    "domain": "molecular",
+    "confidence": 0.90
+  },
+  {
+    "head": "胃癌MSI-H",
+    "relation": "检测方法",
+    "tail": "PCR/NGS或IHC检测MMR蛋白",
+    "source": "CSCO/NCCN分子检测指南",
+    "evidence": "I级",
+    "domain": "molecular",
+    "confidence": 0.95
+  },
+  {
+    "head": "胃癌EBV阳性",
+    "relation": "检测方法",
+    "tail": "EBER原位杂交",
+    "source": "CSCO分子检测指南",
+    "evidence": "I级",
+    "domain": "molecular",
+    "confidence": 0.95
+  },
+  {
+    "head": "胃癌",
+    "relation": "精准医学检测要求",
+    "tail": "分子分型检测应包括HER2/MSI/PD-L1/CLDN18.2",
+    "source": "CSCO 2025指南",
+    "evidence": "I级",
+    "domain": "molecular",
+    "confidence": 0.92
+  },
+  {
+    "head": "胃癌",
+    "relation": "ctDNA动态监测",
+    "tail": "可辅助评估治疗反应和复发",
+    "source": "CSCO液体活检专家共识",
+    "evidence": "II级专家共识",
+    "domain": "molecular",
+    "confidence": 0.80
+  },
+  {
+    "head": "胃癌",
+    "relation": "NGS大panel检测",
+    "tail": "可发现可用药突变",
+    "source": "CSCO分子检测指南",
+    "evidence": "I级",
+    "domain": "molecular",
+    "confidence": 0.88
+  },
+  {
+    "head": "胃癌分子标志物",
+    "relation": "常用检测",
+    "tail": "CEA/CA19-9/CA72-4",
+    "source": "CSCO随访指南",
+    "evidence": "I级专家共识",
+    "domain": "molecular",
+    "confidence": 0.90
+  },
+  {
+    "head": "胃癌CEA",
+    "relation": "临床意义",
+    "tail": "辅助诊断、监测疗效、提示复发",
+    "source": "CSCO 2025指南",
+    "evidence": "I级专家共识",
+    "domain": "molecular",
+    "confidence": 0.88
+  },
+  {
+    "head": "胃癌CA19-9",
+    "relation": "临床意义",
+    "tail": "辅助判断肿瘤负荷和疗效",
+    "source": "CSCO 2025指南",
+    "evidence": "I级专家共识",
+    "domain": "molecular",
+    "confidence": 0.85
+  },
+  {
+    "head": "胃癌CA72-4",
+    "relation": "临床意义",
+    "tail": "胃癌特异性较高的肿瘤标志物",
+    "source": "CSCO 2025指南",
+    "evidence": "I级专家共识",
+    "domain": "molecular",
+    "confidence": 0.82
+  },
+  {
+    "head": "胃癌",
+    "relation": "早诊生物标志物",
+    "tail": "目前缺乏有效的血清早诊标志物",
+    "source": "CSCO早诊指南",
+    "evidence": "I级专家共识",
+    "domain": "molecular",
+    "confidence": 0.85
+  },
+  {
+    "head": "胃癌",
+    "relation": "影像组学",
+    "tail": "可辅助预测疗效和预后",
+    "source": "多项影像组学研究",
+    "evidence": "II级",
+    "domain": "diagnosis",
+    "confidence": 0.75
+  },
+  {
+    "head": "胃癌",
+    "relation": "AI辅助内镜",
+    "tail": "可提高早期胃癌检出率",
+    "source": "多项临床验证研究",
+    "evidence": "II级",
+    "domain": "diagnosis",
+    "confidence": 0.80
+  },
+  {
+    "head": "胃癌腹膜转移",
+    "relation": "CT诊断特征",
+    "tail": "腹膜增厚/腹水/肠壁增厚",
+    "source": "CSCO影像诊断指南",
+    "evidence": "I级",
+    "domain": "diagnosis",
+    "confidence": 0.85
+  },
+  {
+    "head": "胃癌肝转移",
+    "relation": "影像学特征",
+    "tail": "CT/MRI显示肝内低密度/低信号病灶",
+    "source": "CSCO影像诊断指南",
+    "evidence": "I级",
+    "domain": "diagnosis",
+    "confidence": 0.92
+  },
+  {
+    "head": "胃癌",
+    "relation": "MDT讨论内容",
+    "tail": "病理诊断、分期、治疗方案、随访计划",
+    "source": "CSCO MDT指南",
+    "evidence": "I级专家共识",
+    "domain": "treatment",
+    "confidence": 0.92
+  },
+  {
+    "head": "胃癌",
+    "relation": "ERAS管理",
+    "tail": "围手术期多模式优化策略",
+    "source": "ERAS协会指南",
+    "evidence": "I级",
+    "domain": "support_care",
+    "confidence": 0.90
+  },
+  {
+    "head": "胃癌术后",
+    "relation": "镇痛管理",
+    "tail": "多模式镇痛，减少阿片类使用",
+    "source": "CSCO/ERAS镇痛指南",
+    "evidence": "I级专家共识",
+    "domain": "support_care",
+    "confidence": 0.88
+  },
+  {
+    "head": "胃癌术后",
+    "relation": "引流管管理",
+    "tail": "术后无出血/无胰漏时可早期拔除",
+    "source": "CSCO/ERAS术后管理指南",
+    "evidence": "I级专家共识",
+    "domain": "support_care",
+    "confidence": 0.88
+  },
+  {
+    "head": "胃癌",
+    "relation": "VTE预防",
+    "tail": "术后低分子肝素预防血栓",
+    "source": "CSCO/NCCN围手术期抗凝指南",
+    "evidence": "I级",
+    "domain": "support_care",
+    "confidence": 0.90
+  }
+]

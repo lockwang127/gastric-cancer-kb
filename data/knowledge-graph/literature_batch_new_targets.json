@@ -1,0 +1,182 @@
+[
+  {
+    "head": "胃癌",
+    "relation": "ADC药物研发",
+    "tail": "T-DXd、RC48等ADC在胃癌显示活性",
+    "source": "DESTINY-Gastric系列 / RC48研究",
+    "evidence": "I级",
+    "domain": "new_targets",
+    "confidence": 0.90
+  },
+  {
+    "head": "胃癌CLDN18.2",
+    "relation": "CAR-T治疗",
+    "tail": "CT041等CAR-T细胞治疗显示初步活性",
+    "source": "NCT04581473等早期临床研究",
+    "evidence": "II级",
+    "domain": "new_targets",
+    "confidence": 0.78
+  },
+  {
+    "head": "胃癌",
+    "relation": "双特异性抗体",
+    "tail": "ZW25(HER2xHER3)、AMG 910(CD3xCLDN18.2)在研",
+    "source": "NCT04276493等",
+    "evidence": "II级",
+    "domain": "new_targets",
+    "confidence": 0.75
+  },
+  {
+    "head": "胃癌",
+    "relation": "ADC药物靶点",
+    "tail": "HER2、TROP2、Claudin18.2、B7-H3等",
+    "source": "多项I/II期临床研究",
+    "evidence": "II级",
+    "domain": "new_targets",
+    "confidence": 0.82
+  },
+  {
+    "head": "HER2低表达胃癌",
+    "relation": "T-DXd研究",
+    "tail": "DESTINY-Gastric06研究进行中",
+    "source": "NCT04014075",
+    "evidence": "II级",
+    "domain": "new_targets",
+    "confidence": 0.80
+  },
+  {
+    "head": "胃癌",
+    "relation": "免疫联合靶向",
+    "tail": "抗血管生成+免疫检查点抑制剂联合方案在探索",
+    "source": "多项II/III期研究",
+    "evidence": "II级",
+    "domain": "new_targets",
+    "confidence": 0.80
+  },
+  {
+    "head": "胃癌",
+    "relation": "MET通路靶点",
+    "tail": "赛沃替尼、卡马替尼等在MET扩增胃癌中研究",
+    "source": "NCT02819518等",
+    "evidence": "II级",
+    "domain": "new_targets",
+    "confidence": 0.75
+  },
+  {
+    "head": "胃癌FGFR2b阳性",
+    "relation": "Bemarituzumab",
+    "tail": "靶向FGFR2b单抗，FIGHT研究显示OS获益",
+    "source": "FIGHT (NCT03694522)",
+    "evidence": "II级",
+    "domain": "new_targets",
+    "confidence": 0.80
+  },
+  {
+    "head": "胃癌",
+    "relation": "WEE1抑制剂",
+    "tail": "Adavosertib等在研究中",
+    "source": "NCT02542293",
+    "evidence": "II级",
+    "domain": "new_targets",
+    "confidence": 0.70
+  },
+  {
+    "head": "胃癌",
+    "relation": "ATR抑制剂",
+    "tail": "Ceralasertib等在研究中",
+    "source": "NCT02264678",
+    "evidence": "II级",
+    "domain": "new_targets",
+    "confidence": 0.70
+  },
+  {
+    "head": "胃癌",
+    "relation": "EZH2抑制剂",
+    "tail": "Tazemetostat等在研究中",
+    "source": "NCT02860286",
+    "evidence": "II级",
+    "domain": "new_targets",
+    "confidence": 0.68
+  },
+  {
+    "head": "胃癌",
+    "relation": "HDAC抑制剂",
+    "tail": "西达本胺等在研究中",
+    "source": "NCT03501406",
+    "evidence": "II级",
+    "domain": "new_targets",
+    "confidence": 0.68
+  },
+  {
+    "head": "胃癌",
+    "relation": "mTOR抑制剂",
+    "tail": "依维莫司等在研究中",
+    "source": "NCT01452607",
+    "evidence": "II级",
+    "domain": "new_targets",
+    "confidence": 0.68
+  },
+  {
+    "head": "胃癌耐药",
+    "relation": "HER2耐药机制",
+    "tail": "HER2下游激活、旁路激活等",
+    "source": "DESTINY-Gastric系列耐药分析",
+    "evidence": "I级",
+    "domain": "new_targets",
+    "confidence": 0.85
+  },
+  {
+    "head": "胃癌",
+    "relation": "克服耐药策略",
+    "tail": "ADC、联合方案、新型靶点药物",
+    "source": "Nature Reviews Drug Discovery 2025",
+    "evidence": "I级专家共识",
+    "domain": "new_targets",
+    "confidence": 0.85
+  },
+  {
+    "head": "胃癌",
+    "relation": "AI辅助诊断",
+    "tail": "内镜AI辅助早期胃癌检测",
+    "source": "多项临床验证研究",
+    "evidence": "II级",
+    "domain": "new_targets",
+    "confidence": 0.80
+  },
+  {
+    "head": "胃癌",
+    "relation": "ctDNA-MRD检测",
+    "tail": "术后ctDNA阳性提示高复发风险",
+    "source": "多项液体活检研究",
+    "evidence": "II级",
+    "domain": "new_targets",
+    "confidence": 0.78
+  },
+  {
+    "head": "胃癌",
+    "relation": "新辅助免疫治疗",
+    "tail": "免疫联合化疗新辅助在探索中",
+    "source": "多项II期临床研究",
+    "evidence": "II级",
+    "domain": "new_targets",
+    "confidence": 0.80
+  },
+  {
+    "head": "胃癌",
+    "relation": "肿瘤疫苗",
+    "tail": "新抗原疫苗在探索中",
+    "source": "NCT04078247等",
+    "evidence": "II级",
+    "domain": "new_targets",
+    "confidence": 0.70
+  },
+  {
+    "head": "胃癌",
+    "relation": "TIL细胞治疗",
+    "tail": "肿瘤浸润淋巴细胞治疗在探索",
+    "source": "NCT01159223等",
+    "evidence": "II级",
+    "domain": "new_targets",
+    "confidence": 0.70
+  }
+]

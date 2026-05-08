@@ -1,9 +1,16 @@
 {
   "version": "1.0.0",
-  "generated_at": "2026-05-08T11:09:16.892428",
-  "total_triplets": 65,
+  "generated_at": "2026-05-08T12:35:57.038277",
+  "total_triplets": 362,
   "domains": [
     "CSCO指南",
+    "clinical_trials",
+    "diagnosis",
+    "epidemiology",
+    "molecular",
+    "new_targets",
+    "support_care",
+    "treatment",
     "分子分型",
     "治疗",
     "流行病学"
@@ -12,6 +19,16 @@
     "biomarkers.json": 16,
     "csco_2024.json": 17,
     "epidemiology.json": 14,
+    "extra_batch.json": 40,
+    "extra_batch2.json": 42,
+    "extra_batch3.json": 42,
+    "literature_batch_diagnosis.json": 20,
+    "literature_batch_epidemiology.json": 30,
+    "literature_batch_molecular.json": 30,
+    "literature_batch_new_targets.json": 20,
+    "literature_batch_support_care.json": 19,
+    "literature_batch_treatment_2025.json": 36,
+    "literature_batch_trials.json": 18,
     "treatment.json": 18
   },
   "description": "胃癌知识库 - 基于CSCO指南、流行病学数据和临床研究"

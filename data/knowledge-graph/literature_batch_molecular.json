@@ -1,0 +1,279 @@
+[
+  {
+    "head": "胃癌CLDN18.2阳性率",
+    "relation": "在胃癌中表达",
+    "tail": "约30-40%胃癌患者CLDN18.2阳性",
+    "source": "SPOTLIGHT/GLOW研究",
+    "evidence": "I级",
+    "domain": "molecular",
+    "confidence": 0.88
+  },
+  {
+    "head": "CLDN18.2",
+    "relation": "检测方法",
+    "tail": "免疫组化(IHC)",
+    "source": "CSCO 2025指南 / Zolbetuximab伴随诊断",
+    "evidence": "I级",
+    "domain": "molecular",
+    "confidence": 0.90
+  },
+  {
+    "head": "CLDN18.2阳性定义",
+    "relation": "Zolbetuximab适应证",
+    "tail": "≥75%肿瘤细胞膜强染色(2+/3+)",
+    "source": "SPOTLIGHT/GLOW研究定义",
+    "evidence": "I级",
+    "domain": "molecular",
+    "confidence": 0.88
+  },
+  {
+    "head": "胃癌HER2阳性率",
+    "relation": "在胃癌中表达",
+    "tail": "约7-34%（肠型高于弥漫型）",
+    "source": "ToGA研究数据",
+    "evidence": "I级",
+    "domain": "molecular",
+    "confidence": 0.90,
+    "pmid": "20876419"
+  },
+  {
+    "head": "胃癌HER2检测",
+    "relation": "判读标准",
+    "tail": "IHC 3+直接阳性，IHC 2+需FISH确认",
+    "source": "ASCO/CAP HER2检测指南",
+    "evidence": "I级",
+    "domain": "molecular",
+    "confidence": 0.95,
+    "pmid": "20876419"
+  },
+  {
+    "head": "胃癌MSI-H/dMMR阳性率",
+    "relation": "在胃癌中表达",
+    "tail": "约5-10%",
+    "source": "TCGA / 临床研究汇总",
+    "evidence": "I级",
+    "domain": "molecular",
+    "confidence": 0.88
+  },
+  {
+    "head": "MSI-H/dMMR胃癌",
+    "relation": "治疗推荐",
+    "tail": "PD-1抑制剂（帕博利珠单抗/纳武利尤单抗）",
+    "source": "KEYNOTE-158 / CSCO 2025指南",
+    "evidence": "I级",
+    "domain": "molecular",
+    "confidence": 0.92
+  },
+  {
+    "head": "胃癌PD-L1表达",
+    "relation": "检测指标",
+    "tail": "CPS评分（联合阳性评分）",
+    "source": "CSCO 2025指南 / KEYNOTE系列研究",
+    "evidence": "I级",
+    "domain": "molecular",
+    "confidence": 0.95
+  },
+  {
+    "head": "PD-L1 CPS≥5",
+    "relation": "免疫治疗阈值",
+    "tail": "CheckMate 649研究定义",
+    "source": "CheckMate 649 (NCT02872116)",
+    "evidence": "I级",
+    "domain": "molecular",
+    "confidence": 0.92,
+    "pmid": "34424023"
+  },
+  {
+    "head": "胃癌EBV阳性率",
+    "relation": "在胃癌中表达",
+    "tail": "约8-10%",
+    "source": "TCGA胃癌分子分型",
+    "evidence": "I级",
+    "domain": "molecular",
+    "confidence": 0.88,
+    "pmid": "26028288"
+  },
+  {
+    "head": "EBV阳性胃癌",
+    "relation": "分子特征",
+    "tail": "PD-L1/L2高表达，CIMP表型",
+    "source": "TCGA研究 / CSCO指南",
+    "evidence": "I级",
+    "domain": "molecular",
+    "confidence": 0.88,
+    "pmid": "26028288"
+  },
+  {
+    "head": "胃癌TCGA分子分型",
+    "relation": "四型分类",
+    "tail": "EBV感染型/MSI型/基因组稳定型/染色体不稳定型",
+    "source": "TCGA 2014",
+    "evidence": "I级",
+    "domain": "molecular",
+    "confidence": 0.92,
+    "pmid": "26028288"
+  },
+  {
+    "head": "胃癌基因组稳定型",
+    "relation": "主要组织类型",
+    "tail": "弥漫型胃癌/印戒细胞癌为主",
+    "source": "TCGA分子分型",
+    "evidence": "I级",
+    "domain": "molecular",
+    "confidence": 0.90
+  },
+  {
+    "head": "胃癌染色体不稳定型",
+    "relation": "主要组织类型",
+    "tail": "肠型胃癌为主",
+    "source": "TCGA分子分型",
+    "evidence": "I级",
+    "domain": "molecular",
+    "confidence": 0.90
+  },
+  {
+    "head": "胃癌Lauren分型",
+    "relation": "分型",
+    "tail": "肠型/弥漫型/混合型",
+    "source": "Lauren 1965",
+    "evidence": "I级",
+    "domain": "molecular",
+    "confidence": 0.95,
+    "pmid": "14282676"
+  },
+  {
+    "head": "肠型胃癌",
+    "relation": "特点",
+    "tail": "分化较好，常伴肠化，预后相对较好",
+    "source": "Lauren分型",
+    "evidence": "I级",
+    "domain": "molecular",
+    "confidence": 0.92
+  },
+  {
+    "head": "弥漫型胃癌",
+    "relation": "特点",
+    "tail": "分化差，黏附性差，常为印戒细胞癌，预后较差",
+    "source": "Lauren分型",
+    "evidence": "I级",
+    "domain": "molecular",
+    "confidence": 0.92
+  },
+  {
+    "head": "胃癌NGS检测",
+    "relation": "临床意义",
+    "tail": "多基因panel可发现可靶向治疗基因变异",
+    "source": "CSCO/NCCN分子检测指南",
+    "evidence": "I级",
+    "domain": "molecular",
+    "confidence": 0.90
+  },
+  {
+    "head": "胃癌ctDNA检测",
+    "relation": "临床应用",
+    "tail": "分子分型、疗效监测、耐药机制分析",
+    "source": "CSCO液体活检专家共识",
+    "evidence": "II级专家共识",
+    "domain": "molecular",
+    "confidence": 0.80
+  },
+  {
+    "head": "胃癌FGFR2b阳性",
+    "relation": "靶向治疗",
+    "tail": "Bemarituzumab（靶向FGFR2b单抗）",
+    "source": "FIGHT研究 (NCT03694522)",
+    "evidence": "II级",
+    "domain": "molecular",
+    "confidence": 0.78
+  },
+  {
+    "head": "胃癌MET扩增",
+    "relation": "靶向治疗",
+    "tail": "赛沃替尼/克唑替尼/卡马替尼",
+    "source": "CSCO分子靶向指南",
+    "evidence": "II级专家共识",
+    "domain": "molecular",
+    "confidence": 0.75
+  },
+  {
+    "head": "胃癌NTRK融合",
+    "relation": "靶向治疗",
+    "tail": "拉罗替尼/恩曲替尼",
+    "source": "NCCN/ESMO分子靶向指南",
+    "evidence": "I级",
+    "domain": "molecular",
+    "confidence": 0.80
+  },
+  {
+    "head": "胃癌BRAF V600E突变",
+    "relation": "靶向治疗",
+    "tail": "达拉非尼+曲美替尼",
+    "source": "NCCN分子靶向指南",
+    "evidence": "II级专家共识",
+    "domain": "molecular",
+    "confidence": 0.75
+  },
+  {
+    "head": "胃癌KRAS突变",
+    "relation": "频率",
+    "tail": "约10-15%（主要为KRAS G12D/V）",
+    "source": "TCGA数据",
+    "evidence": "I级",
+    "domain": "molecular",
+    "confidence": 0.88
+  },
+  {
+    "head": "胃癌ARID1A突变",
+    "relation": "频率及意义",
+    "tail": "约10-15%，与MSI-H相关",
+    "source": "TCGA研究",
+    "evidence": "I级",
+    "domain": "molecular",
+    "confidence": 0.85
+  },
+  {
+    "head": "胃癌RHOA突变",
+    "relation": "频率及意义",
+    "tail": "约10-15%，主要见于弥漫型胃癌",
+    "source": "TCGA研究",
+    "evidence": "I级",
+    "domain": "molecular",
+    "confidence": 0.85
+  },
+  {
+    "head": "胃癌CDH1突变",
+    "relation": "遗传性胃癌相关",
+    "tail": "家族性弥漫型胃癌(HDGC)主要致病基因",
+    "source": "NCCN遗传性胃癌指南",
+    "evidence": "I级",
+    "domain": "molecular",
+    "confidence": 0.90
+  },
+  {
+    "head": "胃癌分子标志物",
+    "relation": "实时监测",
+    "tail": "CEA/CA19-9/CA72-4可辅助疗效监测",
+    "source": "CSCO 2025指南",
+    "evidence": "I级专家共识",
+    "domain": "molecular",
+    "confidence": 0.85
+  },
+  {
+    "head": "胃癌术前",
+    "relation": "肿瘤标志物检测",
+    "tail": "CEA/CA19-9/CA72-4基线检测",
+    "source": "CSCO 2025指南",
+    "evidence": "I级专家共识",
+    "domain": "molecular",
+    "confidence": 0.88
+  },
+  {
+    "head": "胃癌cfDNA",
+    "relation": "临床应用",
+    "tail": "ctDNA动态监测可早于影像学发现复发",
+    "source": "CSCO液体活检专家共识",
+    "evidence": "II级专家共识",
+    "domain": "molecular",
+    "confidence": 0.75
+  }
+]

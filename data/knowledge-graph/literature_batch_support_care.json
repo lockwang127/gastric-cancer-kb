@@ -1,0 +1,173 @@
+[
+  {
+    "head": "胃癌术后",
+    "relation": "营养支持",
+    "tail": "术后早期肠内营养，早期下床活动",
+    "source": "CSCO ERAS指南",
+    "evidence": "I级专家共识",
+    "domain": "support_care",
+    "confidence": 0.90
+  },
+  {
+    "head": "胃癌全胃切除术后",
+    "relation": "饮食指导",
+    "tail": "少食多餐，细嚼慢咽，补充维生素B12和铁剂",
+    "source": "CSCO/ERAS术后康复指南",
+    "evidence": "I级专家共识",
+    "domain": "support_care",
+    "confidence": 0.88
+  },
+  {
+    "head": "胃癌化疗",
+    "relation": "CINV预防",
+    "tail": "5-HT3拮抗剂+地塞米松±NK-1拮抗剂",
+    "source": "CSCO止吐指南",
+    "evidence": "I级",
+    "domain": "support_care",
+    "confidence": 0.92
+  },
+  {
+    "head": "胃癌化疗",
+    "relation": "骨髓抑制管理",
+    "tail": "G-CSF预防性使用，粒缺伴发热需住院",
+    "source": "CSCO骨髓抑制管理指南",
+    "evidence": "I级",
+    "domain": "support_care",
+    "confidence": 0.90
+  },
+  {
+    "head": "胃癌靶向治疗",
+    "relation": "曲妥珠单抗心脏毒性",
+    "tail": "治疗前及治疗中监测LVEF",
+    "source": "CSCO靶向治疗安全指南",
+    "evidence": "I级",
+    "domain": "support_care",
+    "confidence": 0.90
+  },
+  {
+    "head": "胃癌免疫治疗",
+    "relation": "irAE监测",
+    "tail": "免疫性肺炎/肝炎/结肠炎/内分泌疾病",
+    "source": "CSCO免疫治疗毒性管理指南",
+    "evidence": "I级",
+    "domain": "support_care",
+    "confidence": 0.90
+  },
+  {
+    "head": "胃癌",
+    "relation": "疼痛管理",
+    "tail": "根据WHO三阶梯原则个体化镇痛",
+    "source": "CSCO姑息支持治疗指南",
+    "evidence": "I级专家共识",
+    "domain": "support_care",
+    "confidence": 0.88
+  },
+  {
+    "head": "胃癌腹膜转移",
+    "relation": "腹腔热灌注化疗(HIPEC)",
+    "tail": "在特定患者可考虑",
+    "source": "CSCO腹膜转移治疗指南",
+    "evidence": "II级专家共识",
+    "domain": "support_care",
+    "confidence": 0.80
+  },
+  {
+    "head": "胃癌",
+    "relation": "心理支持",
+    "tail": "约30-40%患者出现心理困扰",
+    "source": "CSCO姑息支持治疗指南",
+    "evidence": "I级专家共识",
+    "domain": "support_care",
+    "confidence": 0.85
+  },
+  {
+    "head": "胃癌随访",
+    "relation": "频率",
+    "tail": "术后2年内每3-6个月，之后每6-12个月",
+    "source": "CSCO 2025指南",
+    "evidence": "I级专家共识",
+    "domain": "support_care",
+    "confidence": 0.88
+  },
+  {
+    "head": "胃癌随访",
+    "relation": "检查内容",
+    "tail": "病史+体格检查+肿瘤标志物±影像学检查",
+    "source": "CSCO 2025指南",
+    "evidence": "I级专家共识",
+    "domain": "support_care",
+    "confidence": 0.88
+  },
+  {
+    "head": "胃癌",
+    "relation": "营养评估",
+    "tail": "NRS2002营养风险筛查，PG-SGA详细评估",
+    "source": "CSCO营养支持指南",
+    "evidence": "I级专家共识",
+    "domain": "support_care",
+    "confidence": 0.85
+  },
+  {
+    "head": "胃癌恶液质",
+    "relation": "管理",
+    "tail": "营养支持+食欲刺激剂±孕激素类药物",
+    "source": "CSCO恶液质管理指南",
+    "evidence": "I级专家共识",
+    "domain": "support_care",
+    "confidence": 0.85
+  },
+  {
+    "head": "胃癌出血",
+    "relation": "处理",
+    "tail": "内镜止血/介入栓塞/手术止血",
+    "source": "CSCO急性出血管理指南",
+    "evidence": "I级专家共识",
+    "domain": "support_care",
+    "confidence": 0.88
+  },
+  {
+    "head": "胃癌梗阻",
+    "relation": "处理",
+    "tail": "支架置入/短路手术/胃肠造口",
+    "source": "CSCO梗阻管理指南",
+    "evidence": "I级专家共识",
+    "domain": "support_care",
+    "confidence": 0.88
+  },
+  {
+    "head": "胃癌术后",
+    "relation": "倾倒综合征预防",
+    "tail": "少量多餐，避免高糖饮食，餐后平卧",
+    "source": "CSCO术后康复指南",
+    "evidence": "I级专家共识",
+    "domain": "support_care",
+    "confidence": 0.85
+  },
+  {
+    "head": "胃癌",
+    "relation": "中医中药辅助",
+    "tail": "可辅助改善症状、减轻治疗不良反应",
+    "source": "CSCO中西医结合指南",
+    "evidence": "II级专家共识",
+    "domain": "support_care",
+    "confidence": 0.75
+  },
+  {
+    "head": "胃癌患者",
+    "relation": "体力活动建议",
+    "tail": "根据体能状态制定个体化运动方案",
+    "source": "ACS运动指南",
+    "evidence": "II级专家共识",
+    "domain": "support_care",
+    "confidence": 0.78
+  },
+  {
+    "head": "胃癌康复",
+    "relation": "肩关节功能锻炼",
+    "tail": "全胃切除术后可进行肩关节功能锻炼",
+    "source": "CSCO康复指南",
+    "evidence": "II级专家共识",
+    "domain": "support_care",
+    "confidence": 0.78
+  }
+]

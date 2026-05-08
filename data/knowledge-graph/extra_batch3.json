@@ -1,0 +1,380 @@
+[
+  {
+    "head": "胃癌D2手术",
+    "relation": "标准",
+    "tail": "D1+No.7/8a/9/11p/12a淋巴结清扫",
+    "source": "Japanese GC规约/CSCO 2025指南",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.98
+  },
+  {
+    "head": "胃癌No.12a淋巴结",
+    "relation": "位置",
+    "tail": "肝十二指肠韧带内",
+    "source": "Japanese GC淋巴结分组",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.95
+  },
+  {
+    "head": "胃癌No.8a淋巴结",
+    "relation": "位置",
+    "tail": "肝总动脉前上壁",
+    "source": "Japanese GC淋巴结分组",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.95
+  },
+  {
+    "head": "胃癌No.9淋巴结",
+    "relation": "位置",
+    "tail": "腹腔干周围",
+    "source": "Japanese GC淋巴结分组",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.95
+  },
+  {
+    "head": "胃癌No.11p淋巴结",
+    "relation": "位置",
+    "tail": "脾动脉近段",
+    "source": "Japanese GC淋巴结分组",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.95
+  },
+  {
+    "head": "胃癌脾门淋巴结",
+    "relation": "清扫适应证",
+    "tail": "胃上部癌需考虑清扫",
+    "source": "CSCO/Japanese GC规约",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.90
+  },
+  {
+    "head": "胃癌No.10淋巴结",
+    "relation": "位置",
+    "tail": "脾门",
+    "source": "Japanese GC淋巴结分组",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.95
+  },
+  {
+    "head": "胃癌No.13淋巴结",
+    "relation": "位置",
+    "tail": "胰头后淋巴结",
+    "source": "Japanese GC淋巴结分组",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.90
+  },
+  {
+    "head": "胃癌No.14v淋巴结",
+    "relation": "位置",
+    "tail": "肠系膜上静脉旁",
+    "source": "Japanese GC淋巴结分组",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.90
+  },
+  {
+    "head": "胃癌No.15淋巴结",
+    "relation": "位置",
+    "tail": "横结肠系膜",
+    "source": "Japanese GC淋巴结分组",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.85
+  },
+  {
+    "head": "胃癌No.16a1淋巴结",
+    "relation": "位置",
+    "tail": "腹主动脉裂孔周围",
+    "source": "Japanese GC淋巴结分组",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.90
+  },
+  {
+    "head": "胃癌No.16b1淋巴结",
+    "relation": "位置",
+    "tail": "腹腔干到左肾静脉下缘之间",
+    "source": "Japanese GC淋巴结分组",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.90
+  },
+  {
+    "head": "胃癌腹主动脉旁淋巴结转移",
+    "relation": "分期",
+    "tail": "M1（非治愈因素）",
+    "source": "CSCO/AJCC分期",
+    "evidence": "I级",
+    "domain": "diagnosis",
+    "confidence": 0.92
+  },
+  {
+    "head": "胃癌肝十二指肠韧带淋巴结",
+    "relation": "清扫范围",
+    "tail": "No.12a/p/h",
+    "source": "CSCO/Japanese GC规约",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.90
+  },
+  {
+    "head": "胃癌淋巴结清扫",
+    "relation": "质量要求",
+    "tail": "送检淋巴结≥16枚",
+    "source": "CSCO/Japanese GC规约",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.95
+  },
+  {
+    "head": "胃癌淋巴结转移数",
+    "relation": "预后意义",
+    "tail": "≥7枚淋巴结转移预后差",
+    "source": "CSCO/Japanese GC规约",
+    "evidence": "I级",
+    "domain": "diagnosis",
+    "confidence": 0.90
+  },
+  {
+    "head": "胃癌脉管侵犯",
+    "relation": "预后意义",
+    "tail": "LVI阳性提示预后不良",
+    "source": "CSCO病理诊断规范",
+    "evidence": "I级",
+    "domain": "diagnosis",
+    "confidence": 0.90
+  },
+  {
+    "head": "胃癌神经侵犯",
+    "relation": "预后意义",
+    "tail": "PNI阳性提示预后不良",
+    "source": "CSCO病理诊断规范",
+    "evidence": "I级",
+    "domain": "diagnosis",
+    "confidence": 0.88
+  },
+  {
+    "head": "胃癌切缘阳性",
+    "relation": "定义",
+    "tail": "R1切除",
+    "source": "CSCO手术规范",
+    "evidence": "I级",
+    "domain": "diagnosis",
+    "confidence": 0.95
+  },
+  {
+    "head": "胃癌ypTNM分期",
+    "relation": "定义",
+    "tail": "新辅助治疗后病理分期",
+    "source": "AJCC第8版分期",
+    "evidence": "I级",
+    "domain": "diagnosis",
+    "confidence": 0.95
+  },
+  {
+    "head": "胃癌ypStage 0",
+    "relation": "定义",
+    "tail": "新辅助后无残余肿瘤(pCR)",
+    "source": "AJCC第8版",
+    "evidence": "I级",
+    "domain": "diagnosis",
+    "confidence": 0.95
+  },
+  {
+    "head": "胃癌新辅助治疗",
+    "relation": "疗效评估",
+    "tail": "TRG分级( Mandard分级)",
+    "source": "Mandard TRG分级",
+    "evidence": "I级",
+    "domain": "diagnosis",
+    "confidence": 0.90
+  },
+  {
+    "head": "胃癌TRG 1-2级",
+    "relation": "意义",
+    "tail": "肿瘤退缩良好",
+    "source": "Mandard TRG分级",
+    "evidence": "I级",
+    "domain": "diagnosis",
+    "confidence": 0.90
+  },
+  {
+    "head": "胃癌TRG 4-5级",
+    "relation": "意义",
+    "tail": "肿瘤几乎无退缩",
+    "source": "Mandard TRG分级",
+    "evidence": "I级",
+    "domain": "diagnosis",
+    "confidence": 0.90
+  },
+  {
+    "head": "胃癌ypN分期",
+    "relation": "评估要求",
+    "tail": "需在肿瘤退缩区域仔细寻找",
+    "source": "CSCO病理诊断规范",
+    "evidence": "I级",
+    "domain": "diagnosis",
+    "confidence": 0.88
+  },
+  {
+    "head": "胃癌分子亚型",
+    "relation": "EBV阳性",
+    "tail": "约占8%，PD-L1高表达，免疫治疗可能获益",
+    "source": "TCGA分子分型",
+    "evidence": "I级",
+    "domain": "molecular",
+    "confidence": 0.90
+  },
+  {
+    "head": "胃癌分子亚型",
+    "relation": "MSI-H型",
+    "tail": "约占15%，预后相对较好，免疫治疗敏感",
+    "source": "TCGA分子分型",
+    "evidence": "I级",
+    "domain": "molecular",
+    "confidence": 0.92
+  },
+  {
+    "head": "胃癌分子亚型",
+    "relation": "基因组稳定型",
+    "tail": "约占20%，以弥漫型胃癌为主，预后较差",
+    "source": "TCGA分子分型",
+    "evidence": "I级",
+    "domain": "molecular",
+    "confidence": 0.90
+  },
+  {
+    "head": "胃癌分子亚型",
+    "relation": "染色体不稳定型",
+    "tail": "约占50%，以肠型胃癌为主，HER2阳性率较高",
+    "source": "TCGA分子分型",
+    "evidence": "I级",
+    "domain": "molecular",
+    "confidence": 0.90
+  },
+  {
+    "head": "胃癌体细胞突变",
+    "relation": "常见基因",
+    "tail": "TP53/ARID1A/RHOA/CDH1/KRAS/PIK3CA",
+    "source": "TCGA数据",
+    "evidence": "I级",
+    "domain": "molecular",
+    "confidence": 0.88
+  },
+  {
+    "head": "胃癌ctDNA动态监测",
+    "relation": "临床价值",
+    "tail": "可早于影像学发现复发",
+    "source": "多项液体活检研究",
+    "evidence": "II级",
+    "domain": "molecular",
+    "confidence": 0.80
+  },
+  {
+    "head": "胃癌术后",
+    "relation": "吻合口漏",
+    "tail": "严重并发症，需及时处理",
+    "source": "CSCO术后并发症管理",
+    "evidence": "I级",
+    "domain": "support_care",
+    "confidence": 0.90
+  },
+  {
+    "head": "胃癌术后",
+    "relation": "胰漏",
+    "tail": "全胃切除术后脾切除相关并发症",
+    "source": "CSCO术后并发症管理",
+    "evidence": "I级",
+    "domain": "support_care",
+    "confidence": 0.88
+  },
+  {
+    "head": "胃癌术后",
+    "relation": "反流性食管炎",
+    "tail": "全胃切除术后Roux-en-Y可减少反流",
+    "source": "CSCO术后康复指南",
+    "evidence": "I级专家共识",
+    "domain": "support_care",
+    "confidence": 0.85
+  },
+  {
+    "head": "胃癌术后",
+    "relation": "营养不良",
+    "tail": "全胃切除术后常见，需长期随访",
+    "source": "CSCO术后营养管理",
+    "evidence": "I级专家共识",
+    "domain": "support_care",
+    "confidence": 0.88
+  },
+  {
+    "head": "胃癌化疗",
+    "relation": "口腔黏膜炎",
+    "tail": "含5-FU方案常见，局部镇痛处理",
+    "source": "CSCO化疗毒性管理",
+    "evidence": "I级",
+    "domain": "support_care",
+    "confidence": 0.88
+  },
+  {
+    "head": "胃癌化疗",
+    "relation": "手足综合征",
+    "tail": "卡培他滨相关，对症处理",
+    "source": "CSCO化疗毒性管理",
+    "evidence": "I级",
+    "domain": "support_care",
+    "confidence": 0.85
+  },
+  {
+    "head": "胃癌化疗",
+    "relation": "神经毒性",
+    "tail": "奥沙利铂可致急性/慢性神经毒性",
+    "source": "CSCO化疗毒性管理",
+    "evidence": "I级",
+    "domain": "support_care",
+    "confidence": 0.88
+  },
+  {
+    "head": "胃癌靶向治疗",
+    "relation": "雷莫芦单抗不良反应",
+    "tail": "高血压/蛋白尿/出血",
+    "source": "RAINBOW安全性数据",
+    "evidence": "I级",
+    "domain": "support_care",
+    "confidence": 0.88
+  },
+  {
+    "head": "胃癌靶向治疗",
+    "relation": "阿帕替尼不良反应",
+    "tail": "手足皮肤反应/高血压/蛋白尿",
+    "source": "阿帕替尼III期安全性数据",
+    "evidence": "I级",
+    "domain": "support_care",
+    "confidence": 0.85
+  },
+  {
+    "head": "胃癌免疫治疗",
+    "relation": "irAE发生率",
+    "tail": "约20-30%患者出现",
+    "source": "CheckMate 649等研究",
+    "evidence": "I级",
+    "domain": "support_care",
+    "confidence": 0.88
+  },
+  {
+    "head": "胃癌免疫治疗",
+    "relation": "严重irAE",
+    "tail": "需激素治疗者约5-10%",
+    "source": "CSCO免疫毒性数据",
+    "evidence": "I级",
+    "domain": "support_care",
+    "confidence": 0.85
+  }
+]

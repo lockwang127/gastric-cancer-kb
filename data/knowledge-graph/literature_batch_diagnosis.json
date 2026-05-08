@@ -1,0 +1,183 @@
+[
+  {
+    "head": "早期胃癌",
+    "relation": "定义",
+    "tail": "癌组织限于黏膜层或黏膜下层，不论有无淋巴结转移",
+    "source": "Japanese GC classification / CSCO 2025指南",
+    "evidence": "I级",
+    "domain": "diagnosis",
+    "confidence": 0.98
+  },
+  {
+    "head": "早期胃癌",
+    "relation": "肉眼分型",
+    "tail": "I型隆起型/II型浅表型/III型凹陷型",
+    "source": "Japanese GC classification",
+    "evidence": "I级",
+    "domain": "diagnosis",
+    "confidence": 0.95
+  },
+  {
+    "head": "早期胃癌",
+    "relation": "内镜下特征",
+    "tail": "黏膜色泽改变/糜烂/溃疡/黏膜皱襞中断",
+    "source": "CSCO/NCCN内镜诊断指南",
+    "evidence": "I级",
+    "domain": "diagnosis",
+    "confidence": 0.92
+  },
+  {
+    "head": "进展期胃癌",
+    "relation": "Bormann分型",
+    "tail": "I型息肉型/II型溃疡型/III型溃疡浸润型/IV型弥漫浸润型",
+    "source": "Bormann分型 / CSCO指南",
+    "evidence": "I级",
+    "domain": "diagnosis",
+    "confidence": 0.95
+  },
+  {
+    "head": "胃癌TNM分期",
+    "relation": "第8版AJCC分期",
+    "tail": "T1黏膜/黏膜下/T2肌层/T3浆膜下/T4浆膜或侵犯邻近结构",
+    "source": "AJCC第8版胃癌TNM分期",
+    "evidence": "I级",
+    "domain": "diagnosis",
+    "confidence": 0.98
+  },
+  {
+    "head": "胃癌N分期",
+    "relation": "第8版AJCC分期",
+    "tail": "N0无区域淋巴结转移/N1 1-2枚/N2 3-6枚/N3a 7-15枚/N3b ≥16枚",
+    "source": "AJCC第8版胃癌TNM分期",
+    "evidence": "I级",
+    "domain": "diagnosis",
+    "confidence": 0.98
+  },
+  {
+    "head": "胃癌超声内镜(EUS)",
+    "relation": "应用价值",
+    "tail": "评估T分期和部分N分期，优于CT",
+    "source": "CSCO/NCCN影像诊断指南",
+    "evidence": "I级",
+    "domain": "diagnosis",
+    "confidence": 0.90
+  },
+  {
+    "head": "胃癌CT",
+    "relation": "应用价值",
+    "tail": "评估远处转移优于EUS，用于术前分期",
+    "source": "CSCO/NCCN影像诊断指南",
+    "evidence": "I级",
+    "domain": "diagnosis",
+    "confidence": 0.92
+  },
+  {
+    "head": "胃癌PET-CT",
+    "relation": "应用价值",
+    "tail": "用于远处转移评估，不适用于印戒细胞癌",
+    "source": "CSCO/NCCN影像诊断指南",
+    "evidence": "I级",
+    "domain": "diagnosis",
+    "confidence": 0.85
+  },
+  {
+    "head": "胃癌腹腔镜探查",
+    "relation": "适应证",
+    "tail": "cT3-4或N+进展期胃癌排除腹膜转移",
+    "source": "CSCO 2025指南",
+    "evidence": "I级专家共识",
+    "domain": "diagnosis",
+    "confidence": 0.90
+  },
+  {
+    "head": "胃癌腹膜转移",
+    "relation": "检测方法",
+    "tail": "腹腔冲洗细胞学(PEC)阳性可确诊",
+    "source": "CSCO 2025指南",
+    "evidence": "I级",
+    "domain": "diagnosis",
+    "confidence": 0.88
+  },
+  {
+    "head": "胃癌活检",
+    "relation": "要求",
+    "tail": "多部位活检（≥6块）以获取充足组织",
+    "source": "CSCO/NCCN病理诊断指南",
+    "evidence": "I级专家共识",
+    "domain": "diagnosis",
+    "confidence": 0.90
+  },
+  {
+    "head": "胃癌HER2检测",
+    "relation": "要求",
+    "tail": "所有晚期胃癌应检测HER2状态",
+    "source": "CSCO 2025指南 / ToGA研究",
+    "evidence": "I级",
+    "domain": "diagnosis",
+    "confidence": 0.95,
+    "pmid": "20876419"
+  },
+  {
+    "head": "胃癌病理报告",
+    "relation": "应包含内容",
+    "tail": "组织学类型/Lauren分型/分化程度/脉管神经侵犯/HER2状态",
+    "source": "CSCO/NCCN病理诊断规范",
+    "evidence": "I级",
+    "domain": "diagnosis",
+    "confidence": 0.95
+  },
+  {
+    "head": "胃癌",
+    "relation": "影像学T分期准确性",
+    "tail": "多层螺旋CT准确率约75-85%",
+    "source": "CSCO影像诊断指南",
+    "evidence": "I级",
+    "domain": "diagnosis",
+    "confidence": 0.85
+  },
+  {
+    "head": "胃癌",
+    "relation": "EUS-T分期准确性",
+    "tail": "约80-90%",
+    "source": "CSCO影像诊断指南",
+    "evidence": "I级",
+    "domain": "diagnosis",
+    "confidence": 0.88
+  },
+  {
+    "head": "胃癌锁骨上淋巴结转移",
+    "relation": "Virchow淋巴结",
+    "tail": "左侧锁骨上淋巴结转移为远处转移(M1)",
+    "source": "CSCO/NCCN分期指南",
+    "evidence": "I级",
+    "domain": "diagnosis",
+    "confidence": 0.95
+  },
+  {
+    "head": "胃癌梗阻",
+    "relation": "临床表现",
+    "tail": "贲门/幽门梗阻可导致进食困难/呕吐",
+    "source": "CSCO临床诊断指南",
+    "evidence": "I级",
+    "domain": "diagnosis",
+    "confidence": 0.90
+  },
+  {
+    "head": "胃癌出血",
+    "relation": "临床表现",
+    "tail": "呕血/黑便可为首诊症状",
+    "source": "CSCO临床诊断指南",
+    "evidence": "I级",
+    "domain": "diagnosis",
+    "confidence": 0.90
+  },
+  {
+    "head": "胃癌穿孔",
+    "relation": "并发症",
+    "tail": "急性穿孔需急诊手术",
+    "source": "CSCO临床诊断指南",
+    "evidence": "I级",
+    "domain": "diagnosis",
+    "confidence": 0.88
+  }
+]

@@ -1,0 +1,172 @@
+[
+  {
+    "head": "晚期胃癌一线",
+    "relation": "CheckMate 649研究",
+    "tail": "纳武利尤单抗+化疗vs化疗，中位OS 13.8月 vs 11.6月（CPS≥5）",
+    "source": "CheckMate 649 (NCT02872116) / NEJM",
+    "evidence": "I级",
+    "domain": "clinical_trials",
+    "confidence": 0.95,
+    "pmid": "34424023"
+  },
+  {
+    "head": "晚期胃癌一线",
+    "relation": "ORIENT-16研究",
+    "tail": "信迪利单抗+化疗vs化疗，中位OS 18.4月 vs 12.9月（CPS≥5）",
+    "source": "ORIENT-16 (NCT03745170) / ESMO 2021",
+    "evidence": "I级",
+    "domain": "clinical_trials",
+    "confidence": 0.92
+  },
+  {
+    "head": "HER2+晚期胃癌一线",
+    "relation": "KEYNOTE-811研究",
+    "tail": "帕博利珠单抗+曲妥珠单抗+化疗，ORR 74% vs 52%",
+    "source": "KEYNOTE-811 (NCT03615326) / NEJM",
+    "evidence": "I级",
+    "domain": "clinical_trials",
+    "confidence": 0.92,
+    "pmid": "34534432"
+  },
+  {
+    "head": "HER2+晚期胃癌",
+    "relation": "DESTINY-Gastric01研究",
+    "tail": "T-DXd vs 化疗，ORR 51% vs 14%，中位OS 12.5月 vs 8.4月",
+    "source": "DESTINY-Gastric01 (NCT03329690) / NEJM",
+    "evidence": "I级",
+    "domain": "clinical_trials",
+    "confidence": 0.95,
+    "pmid": "34216022"
+  },
+  {
+    "head": "HER2+晚期胃癌",
+    "relation": "DESTINY-Gastric02研究",
+    "tail": "T-DXd二线治疗，ORR 38%，中位PFS 5.6月",
+    "source": "DESTINY-Gastric02 (NCT04014075)",
+    "evidence": "I级",
+    "domain": "clinical_trials",
+    "confidence": 0.92
+  },
+  {
+    "head": "CLDN18.2+晚期胃癌",
+    "relation": "SPOTLIGHT研究",
+    "tail": "Zolbetuximab+SOX vs SOX，中位PFS 10.6月 vs 8.7月，中位OS 18.2月 vs 15.5月",
+    "source": "SPOTLIGHT (NCT03504320) / Lancet",
+    "evidence": "I级",
+    "domain": "clinical_trials",
+    "confidence": 0.92
+  },
+  {
+    "head": "CLDN18.2+晚期胃癌",
+    "relation": "GLOW研究",
+    "tail": "Zolbetuximab+CAPOX vs CAPOX，中位PFS 8.2月 vs 6.3月，中位OS 14.4月 vs 12.2月",
+    "source": "GLOW (NCT03653507) / ASCO 2023",
+    "evidence": "I级",
+    "domain": "clinical_trials",
+    "confidence": 0.92
+  },
+  {
+    "head": "晚期胃癌二线",
+    "relation": "RAINBOW研究",
+    "tail": "雷莫芦单抗+紫杉醇 vs 紫杉醇，中位OS 9.6月 vs 7.4月",
+    "source": "RAINBOW (NCT01170663) / Lancet Oncol",
+    "evidence": "I级",
+    "domain": "clinical_trials",
+    "confidence": 0.92,
+    "pmid": "24637969"
+  },
+  {
+    "head": "ATTRACTION-2研究",
+    "relation": "晚期胃癌三线",
+    "tail": "纳武利尤单抗vs安慰剂，中位OS 5.3月 vs 4.1月",
+    "source": "ATTRACTION-2 (NCT02267343) / Lancet",
+    "evidence": "I级",
+    "domain": "clinical_trials",
+    "confidence": 0.88,
+    "pmid": "28585959"
+  },
+  {
+    "head": "KEYNOTE-158",
+    "relation": "MSI-H/dMMR胃癌",
+    "tail": "帕博利珠单抗治疗，ORR 57%，DOR未达到",
+    "source": "KEYNOTE-158 (NCT02628067)",
+    "evidence": "I级",
+    "domain": "clinical_trials",
+    "confidence": 0.88
+  },
+  {
+    "head": "ToGA研究",
+    "relation": "HER2+晚期胃癌",
+    "tail": "曲妥珠单抗+化疗，中位OS 13.8月 vs 11.1月",
+    "source": "ToGA (NCT01041404) / Lancet",
+    "evidence": "I级",
+    "domain": "clinical_trials",
+    "confidence": 0.95,
+    "pmid": "20876419"
+  },
+  {
+    "head": "FLOT4研究",
+    "relation": "围手术期化疗",
+    "tail": "FLOT vs ECF/ECX，中位OS 50月 vs 35月",
+    "source": "FLOT4 (NCT01216644) / Lancet",
+    "evidence": "I级",
+    "domain": "clinical_trials",
+    "confidence": 0.92,
+    "pmid": "29421210"
+  },
+  {
+    "head": "ACTS-GC研究",
+    "relation": "辅助化疗",
+    "tail": "S-1单药1年 vs 观察，5年OS 71.7% vs 61.9%",
+    "source": "ACTS-GC (UMIN000001248) / JCO",
+    "evidence": "I级",
+    "domain": "clinical_trials",
+    "confidence": 0.92,
+    "pmid": "21389183"
+  },
+  {
+    "head": "RESOLVE研究",
+    "relation": "围手术期vs辅助化疗",
+    "tail": "SOX围手术期 vs XELOX辅助，3年DFS 60% vs 53%",
+    "source": "RESOLVE (NCT01534546) / Lancet Oncol",
+    "evidence": "I级",
+    "domain": "clinical_trials",
+    "confidence": 0.90
+  },
+  {
+    "head": "FGFR2b+胃癌",
+    "relation": "FIGHT研究",
+    "tail": "Bemarituzumab+化疗，中位OS 19.2月 vs 13.0月",
+    "source": "FIGHT (NCT03694522) / JCO",
+    "evidence": "II级",
+    "domain": "clinical_trials",
+    "confidence": 0.82
+  },
+  {
+    "head": "HER2+胃癌",
+    "relation": "Zymeworks ZW25研究",
+    "tail": "ZW25(双抗)+化疗，显示出活性",
+    "source": "NCT04276493",
+    "evidence": "II级",
+    "domain": "clinical_trials",
+    "confidence": 0.78
+  },
+  {
+    "head": "晚期胃癌",
+    "relation": "REG四药联合研究",
+    "tail": "雷莫芦单抗+伊立替康+5-FU+亚叶酸(FOLFIRI)",
+    "source": "NCT02949236",
+    "evidence": "II级",
+    "domain": "clinical_trials",
+    "confidence": 0.75
+  },
+  {
+    "head": "CAPITAL研究",
+    "relation": "卡瑞利珠单抗一线",
+    "tail": "卡瑞利珠单抗+化疗 vs 化疗，中位OS 15.2月 vs 11.9月",
+    "source": "CAPITAL (NCT04546255) / ESMO 2023",
+    "evidence": "I级",
+    "domain": "clinical_trials",
+    "confidence": 0.85
+  }
+]

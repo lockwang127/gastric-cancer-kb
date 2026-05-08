@@ -1,0 +1,338 @@
+[
+  {
+    "head": "晚期胃癌一线",
+    "relation": "免疫联合化疗",
+    "tail": "PD-1抑制剂+化疗（纳武利尤单抗/信迪利单抗/卡瑞利珠单抗等）",
+    "source": "CheckMate 649 / ORIENT-16 / CAPITAL研究 / CSCO 2025指南",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.95,
+    "pmid": "34424023"
+  },
+  {
+    "head": "晚期胃癌一线",
+    "relation": "HER2阳性靶向治疗",
+    "tail": "曲妥珠单抗+化疗",
+    "source": "ToGA研究 / CSCO 2025指南",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.95,
+    "pmid": "20876419"
+  },
+  {
+    "head": "晚期胃癌一线",
+    "relation": "HER2阳性+免疫治疗",
+    "tail": "曲妥珠单抗+帕博利珠单抗+化疗（KEYNOTE-811）",
+    "source": "KEYNOTE-811 (NCT03615326) / CSCO 2025指南",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.92,
+    "pmid": "34534432"
+  },
+  {
+    "head": "晚期胃癌一线",
+    "relation": "化疗方案",
+    "tail": "SOX/XELOX/FLOT4（围手术期）",
+    "source": "CSCO 2025指南",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.95
+  },
+  {
+    "head": "晚期胃癌二线",
+    "relation": "抗血管生成治疗",
+    "tail": "雷莫芦单抗+紫杉醇（RAINBOW研究）",
+    "source": "RAINBOW研究 (NCT01170663) / CSCO 2025指南",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.92,
+    "pmid": "24637969"
+  },
+  {
+    "head": "晚期胃癌二线",
+    "relation": "化疗选择",
+    "tail": "紫杉醇/多西他赛/伊立替康/雷莫芦单抗单药",
+    "source": "CSCO 2025指南",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.90
+  },
+  {
+    "head": "晚期胃癌三线及以上",
+    "relation": "抗血管生成TKI",
+    "tail": "阿帕替尼（甲磺酸阿帕替尼片）",
+    "source": "CSCO 2025指南 / 阿帕替尼III期研究",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.88
+  },
+  {
+    "head": "晚期胃癌三线及以上",
+    "relation": "免疫治疗",
+    "tail": "PD-1抑制剂（纳武利尤单抗/帕博利珠单抗）",
+    "source": "CSCO 2025指南 / ATTRACTION系列研究",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.85
+  },
+  {
+    "head": "晚期胃癌CLDN18.2阳性",
+    "relation": "靶向治疗",
+    "tail": "佐贝妥昔单抗（Zolbetuximab）+化疗",
+    "source": "SPOTLIGHT研究 (NCT03504320) / GLOW研究 (NCT03653507) / FDA 2024批准",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.88
+  },
+  {
+    "head": "HER2阳性晚期胃癌",
+    "relation": "ADC治疗",
+    "tail": "德曲妥珠单抗（T-DXd，DESTINY-Gastric01/02）",
+    "source": "DESTINY-Gastric01 (NCT03329690) / DESTINY-Gastric02 / FDA 2021批准",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.90,
+    "pmid": "34216022"
+  },
+  {
+    "head": "进展期胃癌",
+    "relation": "新辅助化疗",
+    "tail": "SOX/DOS/FLOT方案2-4周期后手术",
+    "source": "CSCO 2025指南 / FLOT4研究",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.92,
+    "pmid": "29421210"
+  },
+  {
+    "head": "进展期胃癌",
+    "relation": "辅助化疗",
+    "tail": "术后SOX/XELOX方案6个月",
+    "source": "CSCO 2025指南 / ACTS-GC研究",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.92,
+    "pmid": "21389183"
+  },
+  {
+    "head": "进展期胃癌D2术后",
+    "relation": "辅助放化疗",
+    "tail": "淋巴结阳性或T4或切缘阳性需考虑术后放化疗",
+    "source": "CSCO 2025指南 / INT-0116研究",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.90
+  },
+  {
+    "head": "胃癌转化治疗",
+    "relation": "定义",
+    "tail": "对不可切除病灶进行化疗，使肿瘤降期后获得R0切除机会",
+    "source": "CSCO 2025指南",
+    "evidence": "I级专家共识",
+    "domain": "treatment",
+    "confidence": 0.92
+  },
+  {
+    "head": "胃癌MDT",
+    "relation": "适用人群",
+    "tail": "所有胃癌患者均推荐MDT讨论制定治疗方案",
+    "source": "CSCO 2025指南",
+    "evidence": "I级专家共识",
+    "domain": "treatment",
+    "confidence": 0.95
+  },
+  {
+    "head": "早期胃癌",
+    "relation": "内镜下切除适应证",
+    "tail": "分化型，黏膜内癌，无溃疡或溃疡瘢痕，≤2cm",
+    "source": "CSCO 2025指南 / Japanese GC Guidelines",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.98
+  },
+  {
+    "head": "早期胃癌",
+    "relation": "内镜下切除方式",
+    "tail": "ESD为首选，可整块切除",
+    "source": "CSCO 2025指南",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.98
+  },
+  {
+    "head": "早期胃癌扩大适应证",
+    "relation": "内镜下切除条件",
+    "tail": "无溃疡分化型≤3cm，或无溃疡SM1浸润分化型≤3cm",
+    "source": "CSCO 2025指南 / Japanese GC Guidelines",
+    "evidence": "I级专家共识",
+    "domain": "treatment",
+    "confidence": 0.90
+  },
+  {
+    "head": "进展期胃癌",
+    "relation": "标准手术方式",
+    "tail": "D2淋巴结清扫",
+    "source": "CSCO 2025指南 / Japanese GC规约",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.98
+  },
+  {
+    "head": "胃癌D2手术",
+    "relation": "D1淋巴结清扫范围",
+    "tail": "胃周淋巴结（No.1-7）",
+    "source": "Japanese GC规约",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.98
+  },
+  {
+    "head": "胃癌D2手术",
+    "relation": "D2淋巴结清扫范围",
+    "tail": "D1+肝十二指肠韧带、脾动脉、腹腔干周围淋巴结",
+    "source": "Japanese GC规约",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.98
+  },
+  {
+    "head": "胃癌手术",
+    "relation": "切缘要求",
+    "tail": "近端切缘≥5cm，Lauren弥漫型需≥8cm确保R0切除",
+    "source": "CSCO 2025指南",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.95
+  },
+  {
+    "head": "SOX方案",
+    "relation": "药物组成",
+    "tail": "替吉奥(S-1)+奥沙利铂",
+    "source": "CSCO 2025指南",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.98
+  },
+  {
+    "head": "XELOX方案",
+    "relation": "药物组成",
+    "tail": "卡培他滨+奥沙利铂",
+    "source": "CSCO 2025指南",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.98
+  },
+  {
+    "head": "DOS方案",
+    "relation": "药物组成",
+    "tail": "多西他赛+奥沙利铂+替吉奥",
+    "source": "CSCO 2025指南 / FLOT4相关",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.92
+  },
+  {
+    "head": "FLOT方案",
+    "relation": "药物组成",
+    "tail": "多西他赛+5-FU+亚叶酸钙+奥沙利铂",
+    "source": "FLOT4研究 (NCT01216644)",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.92,
+    "pmid": "29421210"
+  },
+  {
+    "head": "ToGA方案",
+    "relation": "药物组成",
+    "tail": "曲妥珠单抗+卡培他滨/5-FU+顺铂",
+    "source": "ToGA研究 (NCT01041404)",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.95,
+    "pmid": "20876419"
+  },
+  {
+    "head": "曲妥珠单抗",
+    "relation": "适应证",
+    "tail": "HER2 IHC 3+或IHC 2+/FISH+进展期或晚期胃癌",
+    "source": "ToGA研究 / CSCO 2025指南",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.95,
+    "pmid": "20876419"
+  },
+  {
+    "head": "曲妥珠单抗",
+    "relation": "用法",
+    "tail": "负荷剂量8mg/kg iv d1，之后6mg/kg q3w",
+    "source": "ToGA研究 / 赫赛汀说明书",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.95
+  },
+  {
+    "head": "雷莫芦单抗",
+    "relation": "用法",
+    "tail": "8mg/kg iv d1, d15，q4w",
+    "source": "RAINBOW研究 / CSCO 2025指南",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.95,
+    "pmid": "24637969"
+  },
+  {
+    "head": "阿帕替尼",
+    "relation": "用法",
+    "tail": "850mg qd口服",
+    "source": "CSCO 2025指南 / 阿帕替尼III期研究",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.88
+  },
+  {
+    "head": "纳武利尤单抗",
+    "relation": "胃癌适应证",
+    "tail": "晚期胃癌三线及以后（ATTRACTION-2）",
+    "source": "ATTRACTION-2 (NCT02267343) / CSCO 2025指南",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.88,
+    "pmid": "28585959"
+  },
+  {
+    "head": "帕博利珠单抗",
+    "relation": "胃癌适应证",
+    "tail": "MSI-H/dMMR胃癌或PD-L1 CPS≥1胃癌三线",
+    "source": "KEYNOTE-158 / KEYNOTE-059 / CSCO 2025指南",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.88
+  },
+  {
+    "head": "信迪利单抗",
+    "relation": "胃癌适应证",
+    "tail": "联合化疗一线治疗晚期胃癌（ORIENT-16）",
+    "source": "ORIENT-16 (NCT03745170) / CSCO 2025指南",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.88
+  },
+  {
+    "head": "卡瑞利珠单抗",
+    "relation": "胃癌适应证",
+    "tail": "联合化疗一线治疗晚期胃癌",
+    "source": "CAPITAL研究 (NCT04546255) / CSCO 2025指南",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.85
+  },
+  {
+    "head": "替雷利珠单抗",
+    "relation": "胃癌适应证",
+    "tail": "联合化疗一线治疗晚期胃癌",
+    "source": "RATIONALE-305 (NCT03777657) / CSCO 2025指南",
+    "evidence": "I级",
+    "domain": "treatment",
+    "confidence": 0.85
+  }
+]
